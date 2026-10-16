@@ -11,4 +11,9 @@
 
 <a href="https://github.com/ebeshero/Amadis-in-Translation/wiki/Workflow-and-Working-Notes">Workflow and Working Notes</a>
 
+## Chapter Page References
+
+| Chapters | PDF Pages | Book Pages |
+|----------|-----------|------------|
+| Chapter 1 | 1-20 | 8-14 |
 
