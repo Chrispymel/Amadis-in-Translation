@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../out/amadis_odd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../out/amadis_odd.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amadis of Gaul, by VASCO LOBEJRA.</title>
+            <editor role="translator">Robert Southey</editor>
+            <editor>Stacey Triplette</editor>
+            <editor>Elisa Beshero-Bondar</editor>
+            <editor>Helena Bermúdez Sabel</editor>
+            <editor>Colin O'Donnell</editor>
+         </titleStmt>
+         <publicationStmt>
+            <authority ana="printer">Printed by N. Biggs, Cross-court, Fleet-street</authority>
+            <publisher>T. N. Longman and O. Rees</publisher>
+            <pubPlace>Paternoster Row, London</pubPlace>
+            <date>1803</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Rekeyed from a public domain Google-digitized text via HathiTrust.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="chapter" xml:id="S8">
+            <head>Chapter 8. <locus from="65" to="68"/>
+            </head>
+            <p><!--Text will go here -CRO--></p>
+         </div>
+      </body>
+   </text>
+</TEI>
