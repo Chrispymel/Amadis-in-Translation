@@ -11,9 +11,9 @@
 
 <a href="https://github.com/ebeshero/Amadis-in-Translation/wiki/Workflow-and-Working-Notes">Workflow and Working Notes</a>
 
-## Chapter Page References
+## Southey Chapter Pages
 
-| Chapters | Scan Pages | Book Pages |
+| Chapters | Scan Pages(PDF pages)| Book Pages(Book) |
 |----------|-----------|------------|
 | Chapter 1 | 53-60 | 1-8 |
 | Chapter 2 | 61-68 | 9-16 |
