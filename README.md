@@ -12,6 +12,7 @@
 <a href="https://github.com/ebeshero/Amadis-in-Translation/wiki/Workflow-and-Working-Notes">Workflow and Working Notes</a>
 
 ## Southey Chapter Pages
+**Please note that while the physical copies align, the chapter numbering in our folder naming system differs between the two editions.** Southey’s translation is numbered **ONE** chapter ahead of Montalvo’s Spanish original. For example, Montalvo Chapter 5 corresponds to Southey Chapter 6. When aligning passages, refer to the corresponding text rather than relying solely on chapter numbers.
 
 | Chapters | Scan Pages(PDF pages)| Book Pages(Book) |
 |----------|-----------|------------|
