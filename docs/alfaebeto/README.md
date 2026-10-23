@@ -46,13 +46,13 @@
 
 | ![Fancy A]() |
 | ![Fancy B]() |
-| ![Fancy C](./images/FancyC.png) | Fancy Giant C |
+| ![Fancy C](./images/) | Fancy C |
 | ![Fancy G](./images/FancyG.png) | Fancy G |
 | ![Fancy O](./images/FancyP.png) | Fancy O |
 | ![Fancy P](./images/FancyO.png) | Fancy P |
 | ![Fancy T](/c/Users/logan/AppData/Local/Packages/AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_4216ae7eef3d4c8d9c2eaf9d82253c0a_Edited.png) | Capital crafty T |
 | ![Fancy U]
 
-## Punctuation Marks
+## Giant Letters
 
-|
+| ![Giant O]() |
