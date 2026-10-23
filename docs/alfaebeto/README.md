@@ -17,10 +17,10 @@
 
 ## Ornamental Letters
 
-| ![Fancy C](AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_5fe7c6b4e69140f48ad5a43f39b77cd1_Edited.png) | Fancy Giant C |
+| ![Fancy C](FancyC.png) | Fancy Giant C |
 | ![Fancy G](AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_ae7a49f9cf004a859500de5166c3b8a5_Edited.png) | Capital Crafty G |
-| ![Fancy O](./images/FancyP.png) | Capital old design O |
-| ![Fancy P](./images/FancyO.png) | Capital formal P |
+| ![Fancy O](./images/FancyP.png) | Fancy O |
+| ![Fancy P](./images/FancyO.png) | Fancy P |
 | ![Fancy T](/c/Users/logan/AppData/Local/Packages/AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_4216ae7eef3d4c8d9c2eaf9d82253c0a_Edited.png) | Capital crafty T |
 | ![Letter]
 
