@@ -11,18 +11,47 @@
 
 ## Lowercase Letters
 
+| ![Letter a]() |
+| ![Letter b]() |
+| ![Letter c]() |
+| ![Letter Ch]() |
+| ![Letter d]() |
+| ![Letter e]() |
+| ![Letter f]
 | ![Letter g](/c/Users/logan/AppData/Local/Packages/AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_0f617d402e1343d59a7041f646fd6f32_Edited.png) | Lowercase g |
+| ![Letter h/hache]() |
+| ![Letter i]() |
+| ![Letter j/jota]() |
+| ![Letter k]() |
+| ![Letter l]() |
+| ![Letter ll]() |
+| ![Letter m]() |
+| ![Letter n]() |
+| ![Letter ñ]() |
+| ![Letter o]() |
+| ![Letter p]() |
+| ![Letter q]()
 | ![Letter r](/c/Users/logan/AppData/Local/Packages/AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_7521c536b8914adf83f69af129d6069e_Edited.png) | This is an r |
+| ![Letter rr]() |
+| ![Letter s]() |
+| ![Letter t]() |
+| ![Letter u]() |
+| ![Letter v]() |
+| ![Letter w/double(u)]() |
+| ![Letter x]() |
+| ![Letter y]() |
+| ![Letter z/zeta]() |
 
+## Ornamental Letters/Capital Letters
 
-## Ornamental Letters
-
+| ![Fancy A]() |
+| ![Fancy B]() |
 | ![Fancy C](./images/FancyC.png) | Fancy Giant C |
 | ![Fancy G](./images/FancyG.png) | Fancy G |
 | ![Fancy O](./images/FancyP.png) | Fancy O |
 | ![Fancy P](./images/FancyO.png) | Fancy P |
 | ![Fancy T](/c/Users/logan/AppData/Local/Packages/AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_4216ae7eef3d4c8d9c2eaf9d82253c0a_Edited.png) | Capital crafty T |
-| ![Letter]
+| ![Fancy U]
 
 ## Punctuation Marks
 
