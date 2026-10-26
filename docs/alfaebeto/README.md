@@ -47,6 +47,7 @@
 | ![Fancy A]() |
 | ![Fancy B]() |
 | ![Fancy C](./images/) | Fancy C |
+| ![Fancy D](./images/FancyD.png) | Fancy D |
 | ![Fancy G](./images/FancyG.png) | Fancy G |
 | ![Fancy O](./images/FancyP.png) | Fancy O |
 | ![Fancy P](./images/FancyO.png) | Fancy P |
