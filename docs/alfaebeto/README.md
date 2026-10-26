@@ -31,7 +31,7 @@
 | ![Letter o]() |
 | ![Letter p]() |
 | ![Letter q]()
-| ![Letter r](/c/Users/logan/AppData/Local/Packages/AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_7521c536b8914adf83f69af129d6069e_Edited.png) | This is an r |
+| ![Letter r](./images/.png) | This is an r |
 | ![Letter rr]() |
 | ![Letter s]() |
 | ![Letter t]() |
@@ -50,6 +50,7 @@
 | ![Fancy G](./images/FancyG.png) | Fancy G |
 | ![Fancy O](./images/FancyP.png) | Fancy O |
 | ![Fancy P](./images/FancyO.png) | Fancy P |
+| ![Fancy R](./images/FancyR.png) | Fancy R |
 | ![Fancy T](/c/Users/logan/AppData/Local/Packages/AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_4216ae7eef3d4c8d9c2eaf9d82253c0a_Edited.png) | Capital crafty T |
 | ![Fancy U]
 
