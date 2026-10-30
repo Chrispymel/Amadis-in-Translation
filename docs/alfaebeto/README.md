@@ -11,36 +11,36 @@
 
 ## Lowercase Letters
 
-| ![Letter a]() |
-| ![Letter b]() |
-| ![Letter c]() |
-| ![Letter Ch]() |
-| ![Letter d]() |
-| ![Letter e]() |
-| ![Letter f]
-| ![Letter g](/c/Users/logan/AppData/Local/Packages/AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_0f617d402e1343d59a7041f646fd6f32_Edited.png) | Lowercase g |
-| ![Letter h/hache]() |
-| ![Letter i]() |
-| ![Letter j/jota]() |
-| ![Letter k]() |
-| ![Letter l]() |
-| ![Letter ll]() |
-| ![Letter m]() |
-| ![Letter n]() |
-| ![Letter ñ]() |
-| ![Letter o]() |
-| ![Letter p]() |
-| ![Letter q]()
-| ![Letter r](./images/.png) | This is an r |
-| ![Letter rr]() |
-| ![Letter s]() |
-| ![Letter t]() |
-| ![Letter u]() |
-| ![Letter v]() |
-| ![Letter w/double(u)]() |
-| ![Letter x]() |
-| ![Letter y]() |
-| ![Letter z/zeta]() |
+| ![Letter a](./images/lowera.png) | Lowercase a |
+| ![Letter b](./images/lowerb.png) | Lowercase b |
+| ![Letter c](./images/lowerc.png) | Lowercase c |
+| ![Letter Ch](./images/lowerch.png) | Lowercase ch |
+| ![Letter d](./images/lowerd.png) | Lowercase d |
+| ![Letter e](./images/lowere.png) | Lowercase e |
+| ![Letter f](./images/lowerf.png) | Lowercase f |
+| ![Letter g](./images/lowerg.png) | Lowercase g |
+| ![Letter h/hache](./images/lowerh.png) | Lowercase h |
+| ![Letter i](./images/loweri.png) | Lowercase i |
+| ![Letter j/jota](./images/lowerj.png) | Lowercase j |
+| ![Letter k](./images/lowerk.png) | Lowercase k |
+| ![Letter l](./images/lowerl.png) | Lowercase l |
+| ![Letter ll](./images/lowerll.png) | Lowercase ll |
+| ![Letter m](./images/lowerm.png) | Lowercase m |
+| ![Letter n](./images/lowern.png) | Lowercase n |
+| ![Letter ñ](./images/lowerny.png) | Lowercase ñ |
+| ![Letter o](./images/lowero.png) | Lowercase o |
+| ![Letter p](./images/lowerp.png) | Lowercase p |
+| ![Letter q](./images/lowerq.png) | Lowercase q |
+| ![Letter r](./images/lowerr.png) | Lowercase r |
+| ![Letter rr](./images/lowerrr.png) | Lowercase rr |
+| ![Letter s](./images/lowers.png) | Lowercase s |
+| ![Letter t](./images/lowert.png) | Lowercase t |
+| ![Letter u](./images/loweru.png) | Lowercase u |
+| ![Letter v](./images/lowerv.png) | Lowercase v |
+| ![Letter w/double(u)](./images/lowerw.png) | Lowercase W/double(u) |
+| ![Letter x](./images/lowerx.png) | Lowercase x |
+| ![Letter y](./images/lowery.png) | Lowercase y |
+| ![Letter z/zeta](./images/lowerz.png) | Lowercase z |
 
 ## Ornamental Letters/Capital Letters
 
