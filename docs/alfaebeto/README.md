@@ -53,6 +53,7 @@
 | ![Fancy O](./images/FancyP.png) | Fancy O |
 | ![Fancy P](./images/FancyO.png) | Fancy P |
 | ![Fancy R](./images/FancyR.png) | Fancy R |
+| ![Fancy S](./images/FancyS.png) | Fancy S |
 | ![Fancy T](/c/Users/logan/AppData/Local/Packages/AdobeSystemsIncorporated.AdobePhotoshopExpress_ynb6jyjzte8ga/LocalState/Share/Images/AdobeExpressPhotos_4216ae7eef3d4c8d9c2eaf9d82253c0a_Edited.png) | Capital crafty T |
 | ![Fancy U](./images/FancyU.png) | Fancy U |
 
