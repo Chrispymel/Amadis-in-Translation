@@ -12,7 +12,7 @@
 ## Lowercase Letters
 
 | ![Letter a](./images/lowera.png) | Lowercase a |
-| ![Letter b](./images/lower.png) | Lowercase b |
+| ![Letter b](./images/lowerb.png) | Lowercase b |
 | ![Letter c](./images/lowerc.png) | Lowercase c |
 | ![Letter Ch](./images/lowerch.png) | Lowercase ch |
 | ![Letter d](./images/lowerd.png) | Lowercase d |
