@@ -59,4 +59,4 @@
 
 ## Giant Letters
 
-| ![Giant O](./images/FancyOO.png) | GIANORMOUS O |
+| ![Giant O](./images/FancyOO.png) | GIANORMOUS O | ![Giant N](./images,FancyN.png) | GIANORMOUS N |
