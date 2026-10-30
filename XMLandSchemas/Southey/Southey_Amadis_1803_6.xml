@@ -29,8 +29,18 @@
             <head>Chapter 6. <locus from="52" to="59"/>
             </head>
             <p><!--Text will go here -CRO--> 
-PAGE 52
-Then the Child of the Sea gave his shield and helmet to Gandalin, and proceeded. They had not ridden far, when they saw a                 Damsel coming on her palfrey, and she had in her hand a lance with its belt, and presently another Damsel, who came by a                  different path, joined her, and they both came on communing together. When they reached him, she with the weapon said,                    Take this lance, Sir, and I tell you that within three days it will stand ye in good stead, as therewith ye shall deliver                 from death the house whence ye are descended. He, wondering at her words, replied, How, Damsel, can a house live or                      die? She answered, So it will be; and this lance I give you for some services which from you I expect; the first whereof                 shall be when you shall do an honour to one of your friends, whereby he shall be put into the worst danger that any                       Knight hath been.
+<!--PAGE 52-->
+               <s>
+                  <anchor ana="start" type="add"/>Then<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c1"/>the Child of the Sea gave his shield and helmet to <persName ref="#Gandalin">Gandalin</persName>,<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c2"/>and proceeded<anchor ana="end"/>.
+               </s>
+               <anchor ana="start" corresp="#M5_p1_c3"/>They had not ridden far, when they saw a Damsel coming on her palfrey, and she had in her hand a lance with its belt,<anchor ana="end"/>
+               <anchor ana="start" corresp="#M5_p1_c4"/>and presently another Damsel<anchor ana="end"/>
+               <anchor ana="start" corresp="#M5_p1_c5"/>who came by a different path,<anchor ana="end"/>
+               <anchor ana="start" corresp="#M5_p1_c6"/>
+               <!--This is were I stopped-->
+               joined her, and they both came on communing together<anchor ana="end"/>.When they reached him, she with the weapon said, Take this lance, Sir, and I tell you that within three days it will stand ye in good stead, as therewith ye shall deliver from death the house whence ye are descended. He, wondering at her words, replied, How, Damsel, can a house live or die? She answered, So it will be; and this lance I give you for some services which from you I expect; the first whereof shall be when you shall do an honour to one of your friends, whereby he shall be put into the worst danger that any Knight hath been.
 PAGE 53
 these ten years space. Damsel, said he, such honour, if God please, I will not do my friend. She answered, So it will be, —and spurred her palfrey, and departed. Now this was Urganda the Un-known. The other Damsel who remained, then said to him, Sir Knight, I am from a strange land, and, if it please you, will abide with you till the third day, and defer my journey to my mistress. Whence are you? said he. From Denmark. And he knew this was truth, for he remembered the language of Oriana in her childhood. Then, said he, if ye please, Damsel, to go with me, I will defend ye to my power; but I pray ye, know ye that other Damsel? Never till this meeting: she told me that lance was for the best Knight in the world; and desired me, after her departure, to tell ye that she bare you great affection, and that her name was Urganda the Unknown. Ah God! quoth he, how unfortunate I am! and I cannot find her against her will! And thus devising they went until the dark evening overtook them. At this time they met a Squire, who asked where they were going. Along the road, replied the Child. That, quoth he, is true; but, if you mean.
 PAGE 54

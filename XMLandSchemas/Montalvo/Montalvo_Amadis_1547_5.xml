@@ -106,23 +106,40 @@
     </teiHeader>
     <text>
         <body>
-            <div type="chapter" xml:id="5">
+            <div type="chapter" xml:id="M5">
                 <head>Capítulo V <locus from="xlii-r" to="xlv-r"/><!-- change to folio numbers -->
                 </head>
                 <argument>
                     <p> Cómo Urganda la Desconocida traxo una lança al Donzel del Mar </p>
                 </argument>
-                <p> Dio el Donzel del Mar su escudo yelmo a Gandalín: y fuese su vía y no aduvo
-                    mucho que vino una donzella en su palafrén y traía una lança con una trena: y
-                    vio otra donzella que con ella se juntó: que por otro camino venía: y viniéronse
-                    ambas fablando conta él: y como llegaron la donzella de la lança le dixo. Señor
-                    tomad esta lança: y dígoos que ante de tercero día haréis con ella tales golples
-                    porque libraréis la casa onde primero salistes: él fue maravillado de lo que
-                    dezía: y dixo. Donzella la casa ¿cómo puede morir ni bivir? assí será como lo yo
-                    digo dixo ella: y la lança os dó por algunas merecedes que de vos espero. La
-                    primera será quando hizierdes una honrra a un vuestro amigo por donde será
-                    puesto en la mayor afrenta y peligro que fue puesto cavallero passados ha diez
-                    años. Donzella dixo él: tal honra no haré yo a mi amgio si Dios quisiere. Yo sé
+                <p> 
+                    <cl xml:id="M5_p1_c1">Dio el <persName ref="#Amadis">Donzel del Mar</persName> su escudo yelmo a <persName ref="#Gandalin">Gandalín</persName>:</cl>
+                    <cl xml:id="M5_p1_c2">y fuese su vía y no aduvo</cl>
+                    <cl xml:id="M5_p1_c3">mucho que vino una donzella en su palafrén y traía una lança con una trena:</cl> y
+                    <cl xml:id="M5_p1_c4">y vio otra donzella que con ella se juntó:</cl> 
+                    <cl xml:id="M5_p1_c5">que por otro camino venía:</cl>
+                    <cl xml:id="M5_p1_c6">y viniéronse ambas fablando conta él:</cl>
+                    <cl xml:id="M5_p1_c7">y como llegaron la donzella de la lança le dixo.</cl>
+                    <cl xml:id="M5_p1_c8">
+                        <milestone unit="said" resp="#(Whoever the Damsel is ID)" ana="start"/>Señor tomad esta lança: y dígoos que ante de tercero día haréis con ella tales golples porque libraréis la casa onde primero salistes<milestone unit="said" ana="end"/>:
+                    </cl>
+                    <cl xml:id="M5_p1_c9">él fue maravillado de lo que dezía:</cl>
+                    <cl xml:id="M5_p1_c10">y dixo.</cl>
+                    <cl xml:id="M5_p1_c11">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>Donzella la casa ¿cómo puede morir ni bivir?<milestone unit="said" ana="end"/>
+                    </cl> assí será como lo yo
+                    <cl xml:id="M5_p1_c12">
+                        <milestone unit="said" resp="#Urganda" ana="start"/>assí será como lo yo digo
+                        <milestone unit="said" ana="intStart"/>dixo ella<milestone unit="said" ana="intEnd"/>:
+                        y la lança os dó por algunas merecedes que de vos espero.
+                    </cl>
+                    <cl xml:id="M5_p1_c13">
+                        La primera será quando hizierdes una honrra a un vuestro amigo por donde será
+                        puesto en la mayor afrenta y peligro que fue puesto cavallero passados ha diez
+                        años<milestone unit="said" ana="end" resp="#Urganda"/>.
+                    </cl>
+                    <!--This is where I got to - CRO -->
+                    Donzella dixo él: tal honra no haré yo a mi amgio si Dios quisiere. Yo sé
                     bien dixo ella que assí acadscerá como o lo yo digo: y dando de las espuelas al
                     palafrén se fue su vía: y sabed que ésta era Urganda la Desconocida: la otra
                     donzella quedó con él y dixo. Señor cavallero/ lo de tierra estraña y si
