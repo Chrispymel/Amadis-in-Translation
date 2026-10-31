@@ -44,11 +44,12 @@
 
 ## Ornamental Letters/Capital Letters
 
-| ![Fancy A]() |
-| ![Fancy B]() |
-| ![Fancy C](./images/) | Fancy C |
+| ![Fancy A](./images/FancyA.png) |
+| ![Fancy B](./images/FancyB.png) |
+| ![Fancy C](./images/FancyC.png) | Fancy C |
 | ![Fancy D](./images/FancyD.png) | Fancy D |
 | ![Fancy E](./images/FancyE.png) | Fancy E |
+| ![Fancy F](./images/FancyF.png) | Fancy F |
 | ![Fancy G](./images/FancyG.png) | Fancy G |
 | ![Fancy O](./images/FancyP.png) | Fancy O |
 | ![Fancy P](./images/FancyO.png) | Fancy P |
@@ -59,7 +60,7 @@
 
 ## Giant Letters
 
-| ![Giant C](./images/orientalC.png) | GIANORMOUS C 
-![Giant O](./images/FancyOO.png) | GIANORMOUS O
-![Giant N](./images/OrientalN.png) | GIANORMOUS N 
-![Giant P](./images/orientalp.png) | GIANORMOUS P
+| ![Giant C](./images/orientalC.png) | GIANORMOUS C | 
+| ![Giant O](./images/FancyOO.png) | GIANORMOUS O |
+| ![Giant N](./images/OrientalN.png) | GIANORMOUS N | 
+| ![Giant P](./images/orientalp.png) | GIANORMOUS P |
