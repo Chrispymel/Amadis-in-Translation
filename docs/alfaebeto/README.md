@@ -44,13 +44,15 @@
 
 ## Ornamental Letters/Capital Letters
 
-| ![Fancy A](./images/FancyA.png) |
-| ![Fancy B](./images/FancyB.png) |
+| ![Fancy A](./images/FancyA.png) | Fancy A |
+| ![Fancy B](./images/FancyB.png) | Fancy B |
 | ![Fancy C](./images/FancyC.png) | Fancy C |
 | ![Fancy D](./images/FancyD.png) | Fancy D |
 | ![Fancy E](./images/FancyE.png) | Fancy E |
 | ![Fancy F](./images/FancyF.png) | Fancy F |
 | ![Fancy G](./images/FancyG.png) | Fancy G |
+| ![Fancy H](./images/FancyH.png) | Fancy H |
+| ![Fancy I](./images/FancyI.png) | Fancy I |
 | ![Fancy O](./images/FancyP.png) | Fancy O |
 | ![Fancy P](./images/FancyO.png) | Fancy P |
 | ![Fancy R](./images/FancyR.png) | Fancy R |
