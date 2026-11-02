@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!--<?xml-model href="schemas/odd4odds.rnc" type="application/relax-ng-compact-syntax"?>
-<?xml-model href="schemas/odd4odds.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
   xmlns:sch="http://purl.oclc.org/dsdl/schematron"
   xmlns:rng="http://relaxng.org/ns/structure/1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  version="2.9.1"
+  version="4.12.0"
   xml:lang="en">
   <teiHeader>
     <fileDesc>
@@ -27,20 +25,16 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change who="#ebb" when="2026-11-01">updated the ODD to current standards. Make collection() function in Schematron rules fire on .xml files to
+      ignore the new README files in the Montalvo and Southey directories.</change>
       <change who="#ebb" when="2016-06-14">initiated this ODD</change> 
       <change who="#ebb" when="2017-03-11">modified to comply with the tei_odds.rng schema, and to complete schema definitions.</change>
       <change who="#ebb" when="2017-03-12">incorporated into this ODD the Schematron rules written by Helena Bermúdez Sabel for governing feature structures markup of translation types in this project.</change>
     </revisionDesc>
   </teiHeader>
   <text>
-      <!-- 
-           This template is intended to give you a quick starting point for
-           writing ODD files. You may find it useful to copy and paste 
-           specific constructs from odd_extended_template.xml, which contains
-           commented templates for specific ODD-writing tasks.
-      -->
     <body>
-      <p><!--One or more paragraphs describing the customization.-->This ODD file is designed to contrain a project that studies the translation of a text in early modern Spanish, Montalvo's Amadis de Gaula, into other languages, beginning with Robert Southey's translation into English in the early nineteenth century.</p>
+      <p>This ODD file is designed to contrain a project that studies the translation of a text in early modern Spanish, Montalvo's Amadis de Gaula, into other languages, beginning with Robert Southey's translation into English in the early nineteenth century.</p>
 
       <!-- The <schemaSpec> element is in effect the root element for
            the schema specification portion of the ODD. 
@@ -99,8 +93,7 @@
           <attList>
             <attDef ident="unit" mode="replace" usage="req">
               <datatype>
-                <!--<dataRef key="teidata.word"/>-->
-                <rng:text/>
+                <dataRef key="teidata.enumerated"/>
               </datatype>
               <valList type="closed">
                 <valItem ident="p"/>
@@ -108,7 +101,7 @@
               </valList>
             </attDef>
             <attDef ident="ana" mode="replace">
-              <datatype><rng:text/></datatype>
+              <datatype><dataRef key="teidata.enumerated"/></datatype>
               <valList type="closed">
                 <valItem ident="start"/>
                 <valItem ident="end"/>
@@ -117,13 +110,13 @@
               </valList>
             </attDef>
             <attDef ident="type" mode="replace">
-              <datatype><rng:text/></datatype>
+              <datatype><dataRef key="teidata.enumerated"/></datatype>
               <valList type="closed">
                 <valItem ident="unclear"/>
               </valList>
             </attDef>
             <attDef ident="cert" mode="replace">
-              <datatype><rng:text/></datatype>
+              <datatype><dataRef key="teidata.enumerated"/></datatype>
               <valList type="closed">
                 <valItem ident="low"/>
                 <valItem ident="medium"/>
@@ -143,14 +136,15 @@
           </classes>
           <constraintSpec ident="anchor-distinct-anas" scheme="schematron">
             <constraint>
-              <sch:report test="@ana = preceding-sibling::tei:anchor[1]/@ana">
+              <sch:rule context="tei:anchor">
+                <sch:report test="@ana = preceding-sibling::tei:anchor[1]/@ana">
                 The @ana must NOT be the same on two subsequent anchors!
-              </sch:report>   
+              </sch:report>   </sch:rule>
             </constraint>
           </constraintSpec>
           <attList>
             <attDef ident="ana" mode="replace" usage="req">
-              <datatype><rng:text/></datatype>
+              <datatype><dataRef key="teidata.enumerated"/></datatype>
               <valList type="closed">
                 <valItem ident="start"/>
                 <valItem ident="end"/>
@@ -159,7 +153,7 @@
               </valList>
             </attDef>
             <attDef ident="type" mode="replace">
-              <datatype><rng:text/></datatype>
+              <datatype><dataRef key="teidata.enumerated"/></datatype>
               <valList type="closed">
                 <valItem ident="add"/>
                 <valItem ident="report"/>
@@ -178,7 +172,7 @@
           </constraintSpec>-->
           <attList>
             <attDef ident="name" mode="replace" usage="req">
-              <datatype><rng:text/></datatype>
+              <datatype><dataRef key="teidata.enumerated"/></datatype>
               <valList type="closed">
                 <valItem ident="montalvo"/>
                 <valItem ident="southey"/>
@@ -188,7 +182,7 @@
               </valList>
             </attDef>
             <attDef ident="select" mode="replace">
-              <datatype><rng:text/></datatype>
+              <datatype><dataRef key="teidata.enumerated"/></datatype>
               <valList type="semi">
                 <valItem ident="literal"/>
                 <valItem ident="approximate"/>
@@ -247,10 +241,10 @@
        <!-- <sch:let name="si" value="doc('SI-Amadis.xml')//@xml:id"/>
         <sch:let name="siFile" value="doc('SI-Amadis.xml')"/>
         
-        <sch:let name="M_files" value="collection('./Montalvo')[contains(tokenize(./base-uri(), '/')[last()], 'Mont')]"/>
+        <sch:let name="M_files" value="collection('./Montalvo?select=*.xml')[contains(tokenize(./base-uri(), '/')[last()], 'Mont')]"/>
         <sch:let name="M_ids" value="$M_files//@xml:id"/>
         
-        <sch:let name="S_files" value="collection('./Southey')[contains(tokenize(./base-uri(), '/')[last()], 'South')]"/>
+        <sch:let name="S_files" value="collection('./Southey?select=*.xml')[contains(tokenize(./base-uri(), '/')[last()], 'South')]"/>
         <sch:let name="S_ids" value="$S_files//@xml:id"/>-->
         <sch:pattern>
           <sch:rule context="@ref | @resp">
@@ -265,9 +259,9 @@
         <constraintSpec ident="checking-div-ids" scheme="schematron">
           <constraint>
             <sch:pattern>
-              <sch:let name="M_files" value="collection('../Montalvo')[contains(tokenize(./base-uri(), '/')[last()], 'Mont')]"/>
+              <sch:let name="M_files" value="collection('../Montalvo?select=*.xml')[contains(tokenize(./base-uri(), '/')[last()], 'Mont')]"/>
               <sch:let name="M_ids" value="$M_files//@xml:id"/>
-              <sch:let name="S_files" value="collection('../Southey')[contains(tokenize(./base-uri(), '/')[last()], 'South')]"/>
+              <sch:let name="S_files" value="collection('../Southey?select=*.xml')[contains(tokenize(./base-uri(), '/')[last()], 'South')]"/>
               <sch:let name="S_ids" value="$S_files//@xml:id"/>
               <sch:rule context="tei:div[@type='chapter']">
                 <!--ebb: adding the predicate in case we ever decide to add more div types-->
@@ -476,7 +470,7 @@
           <constraint>
             <sch:pattern>
               <sch:rule context="*[@corresp]">
-                <sch:let name="M_files" value="collection('../Montalvo')[contains(tokenize(./base-uri(), '/')[last()], 'Mont')]"/>
+                <sch:let name="M_files" value="collection('../Montalvo?select=*.xml')[contains(tokenize(./base-uri(), '/')[last()], 'Mont')]"/>
                 <sch:let name="M_ids" value="$M_files//@xml:id"/>
                 <sch:let name="tokens" value="for $i in tokenize(@corresp, '\s+') return substring-after($i,'#')"/>
                 <sch:assert test="every $token in $tokens satisfies $token = $M_ids">
@@ -544,45 +538,6 @@
             </sch:pattern>
           </constraint>
         </constraintSpec>
-
-        <!--ebb: The following is a model copied from Syd's slide to show me how to tuck Schematron into ODD-->
-       <!-- <elementSpec module="core" ident="anchor" mode="change">
-          <constraintSpec ident="subtype-matched-type" scheme="schematron">
-            <constraint>
-              <sch:report test="@type = 'person'  and  not( @subtype = ('officer','enlisted') )">
-                a name of a person should be sub-catagorized as an officer's name or an enlisted
-                man's name
-              </sch:report>
-              <sch:report test="@type = 'ship'  and  not( @subtype = ('merchant','naval')">
-                the name of a ship should be sub-catagorized as that of a merchant or naval ship
-              </sch:report>
-            </constraint>
-          </constraintSpec>
-          <attList>
-            <attDef ident="type" mode="change" usage="req">
-              <datatype minOccurs="1" maxOccurs="1">
-                <dataRef key="teidata.enumerated"/>
-              </datatype>
-              <valList type="closed">
-                <valItem ident="person"/>
-                <valItem ident="place"/>
-                <valItem ident="port"/>
-                <valItem ident="ship"/>
-              </valList>
-            </attDef>
-            <attDef ident="subtype" mode="change">
-              <datatype minOccurs="1" maxOccurs="1">
-                <dataRef key="teidata.enumerated"/>
-              </datatype>
-              <valList type="closed">
-                <valItem ident="officer"/>
-                <valItem ident="enlisted"/>
-                <valItem ident="merchant"/>
-                <valItem ident="naval"/>
-              </valList>
-            </attDef>
-          </attList>
-        </elementSpec>-->
       </schemaSpec>
     </body>
   </text>
