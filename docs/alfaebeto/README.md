@@ -62,7 +62,13 @@
 
 ## Giant Letters
 
-| ![Giant C](./images/orientalC.png) | GIANORMOUS C | 
+| ![Giant A](./images/orientalA.png) | GIANORMOUS A |
+| ![Giant A](./images/orientalAA.png) | DIFFERENT A |
+| ![Giant A](./images/orientalAAA.png) | DIFFERENT A |
+| ![Giant C](./images/orientalC.png) | GIANORMOUS C |
+| ![Giant C](./images/orientalCC.png) | DIFFERENT C |
+| ![Giant E](./images/orientalE.png) | GIANORMOUS E |
 | ![Giant O](./images/FancyOO.png) | GIANORMOUS O |
+| ![Giant O](./images/orientalO.png) | DIFFERENT O |
 | ![Giant N](./images/OrientalN.png) | GIANORMOUS N | 
 | ![Giant P](./images/orientalp.png) | GIANORMOUS P |
