@@ -121,7 +121,7 @@
                     <cl xml:id="M5_p1_c6">y viniéronse ambas fablando conta él:</cl>
                     <cl xml:id="M5_p1_c7">y como llegaron la donzella de la lança le dixo.</cl>
                     <cl xml:id="M5_p1_c8">
-                        <milestone unit="said" resp="#(Whoever the Damsel is ID)" ana="start"/>Señor tomad esta lança: y dígoos que ante de tercero día haréis con ella tales golples porque libraréis la casa onde primero salistes<milestone unit="said" ana="end"/>:
+                        <milestone unit="said" resp="#Urganda" ana="start"/>Señor tomad esta lança: y dígoos que ante de tercero día haréis con ella tales golples porque libraréis la casa onde primero salistes<milestone unit="said" ana="end"/>:
                     </cl>
                     <cl xml:id="M5_p1_c9">él fue maravillado de lo que dezía:</cl>
                     <cl xml:id="M5_p1_c10">y dixo.</cl>
@@ -138,75 +138,269 @@
                         puesto en la mayor afrenta y peligro que fue puesto cavallero passados ha diez
                         años<milestone unit="said" ana="end" resp="#Urganda"/>.
                     </cl>
-                    <!--This is where I got to - CRO -->
-                    Donzella dixo él: tal honra no haré yo a mi amgio si Dios quisiere. Yo sé
-                    bien dixo ella que assí acadscerá como o lo yo digo: y dando de las espuelas al
-                    palafrén se fue su vía: y sabed que ésta era Urganda la Desconocida: la otra
-                    donzella quedó con él y dixo. Señor cavallero/ lo de tierra estraña y si
-                    quisierdes aguardaros he fasta terecero día: y dexaré de ir donde es mi señora.
-                    Y ¿dande sois vos? dixo él de Denmarcha dixo la donzella: y él conosció que
-                    dezía verdad en su lenguaje: que algunas vezes oyera hablar a su señora Oriana
-                    quando era más niña: y dixo. Donzella bien me plaze si por afán no lo tuvierdes:
-                    y preguntóale si conosció la donzella que la lanza le dio. Ella dixo que la
-                    nunca viera sino entonces: mas que le díxera que la traía para el mejor
-                    cavallero del mundo y díxome: que después que de vos me partiesse que os
-                    hiziesse saber cómo era Urganda la Desconcodia: y que mucho vos ama. Ay dios
-                    dixo él como soy sin ventura en la no conoscer/ y si la dexo de buscar: es
-                    porque ninguno la hallará sin su grado. E assí anduvo con la donzella falta la
-                    noche que que halló un escudero en la carrera que le dixo. Señor hazía dó is voy
-                    por este camino dixo él. Verdad es dixo el escudero: más si aposentar vos
-                    queréis en poblado coverná que lo dexéis: que de aquí a gran pieça no se hallará
-                    fino una fortaleza que es de mi padre: y assí se os hará todo servicio. La
-                    donzella le dixo que sería bien y él se lo otorgó. El escudero los desvió del
-                    camino para los guiar: y esto hazía por una costumbre que avía aí adelante en un
-                    castillo por do el cavallero avía de ir: y quería ver lo que haría que nunca
-                    viera combatir cavallero andante. Pues allí llegados aquella noche fueron muy
-                    bien servidos mas el Donzel del mar no dormía mucho que lo más de la noche
-                    estuvo contemplado en su señora donde se partiera y a la mañana armóse: y fue su
-                    vía con su donzella y él el escudero. Su huésped le dixo que le haría compañía
-                    hasta un castillo que avía delante: assí anduvieron tres leguas y vieron el
-                    castillo: que muy hermoso parescía/ que estava sobre un río: y avía una puente
-                    levadiza: y en cabo della una torre muy alta y hermosa. El Donzel del Mar
-                    preguntó al escudero si aquel río tenía otra passada sino por la puente: él dixo
-                    que no: que todos passavan por ella/ y nos por aí vamos passar. Pues vía delante
-                    dixo él: la donzella passó y los escuderos después: y el Donzel del Mar a la
-                    postre/ y una tan firmamente pensando en su señora: que todo iva fuera de sí.
-                    Como la donzella entró tomáronla vi peones por el freno armados y capellinas y
-                    coraças y dixeron. Donzella conviene que juréis si no sois muerta: que jurare:
-                    jurarás de no hazer amor a tu amigo en ninguna tiempo: sino os promete que
-                    auydara al rey Abiés contra el rey Perión. La donzella dio bozes diziendo que la
-                    quería matar: el Donzel del mar fue allá: y dixo. Villanos malos quien os mandó
-                    poner mano en dueña ni donzella: endemás en ésta que va en mi guarda: y
-                    llegándose al mayor dellos le travó de la hacha: y diole tal herida con el
-                    cuento/ que lo batió e tierra: los otros començaron lo a herir/ mas él dio al
-                    uno tal golpe que lo hendió hasta los ojos: y herió a otro en el ombro: y
-                    cortóle hasta los huessos de los costados. Quando los ostros vieron estos do
-                    muertos de tales golpes no fueron seguros: y començaron a huir: él tiró al uno
-                    la hacha que bien media pierna le cortó: y dixo a la donzella. Id adelante/ que
-                    mal ayan quantos tienen por derecho que ningún villano ponga mano dueña ni en
-                    donzella. Entonces fueron a delante por la puente oyveron del otro cabo a la
-                    parte del castillo gran rebuelta. Dixo la donzella gran ruido de gente suena/ y
-                    yo sería en ue tomássedes vuestras armas. No temáis dixo él que en parte donde
-                    las mugeres son maltratadas/ que deven andar seguras: no puede aver hombre que
-                    nada valga. Señor dixo ella si las armas no tomáis no osaría passar mas
-                    adelante. Él las tomó: y passó delante: y entrando por la puerta del castillo
-                    vio un escudero que venía llorando y dezía. Ay dios cómo matan al mejor
-                    cavallero del mundo: porque no haze una jura que no puede tener con derecho/ y
-                    passando por él vio el Donzel del Mar al rey Perión que le hiziera cavallero
-                    assaz maltratado que le avía muerto el cavallo: dos cavalleeros con peones sobre
+                    <cl xml:id="M5_p1_c14">
+                        Donzella
+                        <milestone unit="said" resp="#Amadis" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>:
+                    </cl>
+                    <cl xml:id="M5_p1_c15">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>tal honra no haré yo a mi amgio si Dios quisiere<milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c16">
+                        <milestone unit="said" resp="#Urganda" ana="start"/>Yo sé bien
+                        <milestone unit="said" ana="intStart"/>dixo ella<milestone unit="said" ana="intEnd"/>
+                        que assí acadscerá como o lo yo digo<milestone unit="said" ana="end"/>:
+                    </cl>
+                    <cl xml:id="M5_p1_c17">
+                        y dando de las espuelas al palafrén se fue su vía:
+                    </cl>
+                    <cl xml:id="M5_p1_c18">
+                        y sabed que ésta era <persName ref="#Urganda">Urganda la Desconocida</persName>:
+                    </cl>
+                    <cl xml:id="M5_p1_c19">
+                        la otra donzella quedó con él y dixo.
+                    </cl>
+                    <cl xml:id="M5_p1_c20">
+                      <!--  Dr. B, We need an xml ID for this damsel from Denmark, I think #Donzella or #Damsel is appropriate. - CRO-->
+                        <milestone unit="said" resp="#Donzella" ana="start"/>Señor cavallero, lo de tierra estraña y si quisierdes aguardaros he fasta terecero día: y dexaré de ir donde es mi señora<milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c21">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>Y ¿dande sois vos?
+                        <milestone unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>
+                        <milestone unit="said" ana="end"/>
+                    </cl>
+                    <cl xml:id="M5_p1_c22">
+                        <!--Here too #Donzella-->
+                        <milestone unit="said" resp="#Donzella" ana="start"/>de Denmarcha
+                        <milestone unit="said" ana="intStart"/>dixo la donzella<milestone unit="said" ana="intEnd"/>
+                        <milestone unit="said" ana="end"/>:
+                    </cl>
+                    <cl xml:id="M5_p1_c23">
+                        y él conosció que dezía verdad en su lenguaje:
+                    </cl>
+                    <cl xml:id="M5_p1_c24">
+                        que algunas vezes oyera hablar a su señora
+                        <persName ref="#Oriana">Oriana</persName> quando era más niña:
+                    </cl>
+                    <cl xml:id="M5_p1_c25">
+                        y dixo.
+                    </cl>
+                    <cl xml:id="M5_p1_c26">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>Donzella bien me plaze si por afán no lo tuvierdes<milestone unit="said" ana="end"/>:
+                    </cl>
+                    <cl xml:id="M5_p1_c27">
+                        y preguntóale si conosció la donzella que la lanza le dio.
+                    </cl>
+                    <cl xml:id="M5_p1_c28">
+                        <!--Again -->
+                        <milestone unit="said" resp="#Donzella" ana="start"/>Ella dixo que la nunca viera sino entonces: mas que le díxera que la traía para el mejor cavallero del mundo y díxome: que después que de vos me partiesse que os hiziesse saber cómo era
+                        <persName ref="#Urganda">Urganda la Desconcodia</persName>: y que mucho vos ama<milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c29">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>Ay dios
+                        <milestone unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>
+                        como soy sin ventura en la no conoscer/ y si la dexo de buscar: es porque ninguno la hallará sin su grado<milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c30">
+                        E assí anduvo con la donzella falta la noche que que halló un escudero en la carrera que le dixo.
+                    </cl>
+                    <cl xml:id="M5_p1_c31">
+                       <!-- Need XML ID for this guy too -->
+                        <milestone unit="said" resp="#Escudero" ana="start"/>Señor hazía dó is voy por este camino
+                        <milestone unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>.
+                        <milestone unit="said" ana="end"/>
+                    </cl>
+                    <!--I stopped here-->
+                    <cl xml:id="M5_p1_c32">
+                        <milestone unit="said" resp="#Escudero" ana="start"/>Verdad es
+                        <milestone unit="said" ana="intStart"/>dixo el escudero<milestone unit="said" ana="intEnd"/>:
+                        más si aposentar vos queréis en poblado coverná que lo dexéis:
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c33">
+                        que de aquí a gran pieça no se hallará sino una fortaleza que es de mi padre:
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c34">
+                        y assí se os hará todo servicio<milestone unit="said" ana="end"/>.
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c35">
+                        La donzella le dixo que sería bien y él se lo otorgó.
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c36">
+                        El escudero los desvió del camino para los guiar:
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c37">
+                        y esto hazía por una costumbre que avía aí adelante en un castillo por do el cavallero avía de ir:
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c38">
+                        y quería ver lo que haría que nunca viera combatir cavallero andante.
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c39">
+                        Pues allí llegados aquella noche fueron muy bien servidos
+                        mas el Donzel del mar no dormía mucho
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c40">
+                        que lo más de la noche estuvo contemplado en su señora donde se partiera
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c41">
+                        y a la mañana armóse:
+                        y fue su vía con su donzella y él el escudero.
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c42">
+                        Su huésped le dixo que le haría compañía hasta un castillo que avía delante:
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c43">
+                        assí anduvieron tres leguas y vieron el castillo:
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c44">
+                        que muy hermoso parescía/ que estava sobre un río:
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c45">
+                        y avía una puente levadiza:
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c46">
+                        y en cabo della una torre muy alta y hermosa.
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c47">
+                        El Donzel del Mar preguntó al escudero si aquel río tenía otra passada sino por la puente:
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c48">
+                        él dixo que no:
+                        que todos passavan por ella/
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c49">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>y nos por aí vamos passar<milestone unit="said" ana="end"/>.
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c50">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>Pues vía delante
+                        <milestone unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>:
+                        <milestone unit="said" ana="end"/>
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c51">
+                        la donzella passó y los escuderos después:
+                        y el Donzel del Mar a la postre/
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c52">
+                        y una tan firmamente pensando en su señora:
+                        que todo iva fuera de sí.
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c53">
+                        Como la donzella entró tomáronla vi peones por el freno armados y capellinas y coraças y dixeron.
+                    </cl>
+                    
+                    <cl xml:id="M5_p1_c54">
+                        <!--Need one for Peones -->
+                        <milestone unit="said" resp="#Peones" ana="start"/>Donzella conviene que juréis si no sois muerta:
+                        que jurare: jurarás de no hazer amor a tu amigo en ninguna tiempo:
+                        <!--Abies -->
+                        sino os promete que auydara al rey <persName ref="#Abies">Abiés</persName> contra el rey <persName ref="#Perion">Perión</persName><milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c55">
+                        La donzella dio bozes diziendo que la quería matar:
+                    </cl>
+                    <cl xml:id="M5_p1_c56">
+                        el Donzel del mar fue allá:
+                        y dixo.
+                    </cl>
+                    <cl xml:id="M5_p1_c57">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>Villanos malos quien os mandó poner mano en dueña ni donzella:
+                        endemás en ésta que va en mi guarda<milestone unit="said" ana="end"/>:
+                    </cl>
+                    <cl xml:id="M5_p1_c58">
+                        y llegándose al mayor dellos le travó de la hacha:
+                        y diole tal herida con el cuento/ que lo batió e tierra:
+                    </cl>
+                    <cl xml:id="M5_p1_c59">
+                        los otros començaron lo a herir
+                        mas él dio al uno tal golpe que lo hendió hasta los ojos:
+                    </cl>
+                    <cl xml:id="M5_p1_c60">
+                        y herió a otro en el ombro:
+                        y cortóle hasta los huessos de los costados.
+                    </cl>
+                    <cl xml:id="M5_p1_c61">
+                        Quando los ostros vieron estos do muertos de tales golpes no fueron seguros:
+                        y començaron a huir:
+                    </cl>
+                    <cl xml:id="M5_p1_c62">
+                        él tiró al uno la hacha que bien media pierna le cortó:
+                    </cl>
+                    <cl xml:id="M5_p1_c63">
+                        y dixo a la donzella.
+                    </cl>
+                    <cl xml:id="M5_p1_c64">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>Id adelante que mal ayan quantos tienen por derecho que ningún villano ponga mano dueña ni en donzella<milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c65">
+                        Entonces fueron a delante por la puente
+                        oyveron del otro cabo a la parte del castillo gran rebuelta.
+                    </cl>
+                    <cl xml:id="M5_p1_c66">
+                        <!--Donzella again -->
+                        <milestone unit="said" resp="#Donzella" ana="start"/>Dixo la donzella gran ruido de gente suena
+                        y yo sería en ue tomássedes vuestras armas<milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c67">
+                        <milestone unit="said" resp="#Amadis" ana="start"/>No temáis
+                        <milestone unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>
+                        que en parte donde las mugeres son maltratadas
+                        que deven andar seguras:
+                        no puede aver hombre que nada valga<milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c68">
+                        <milestone unit="said" resp="#Donzella" ana="start"/>Señor
+                        <milestone unit="said" ana="intStart"/>dixo ella<milestone unit="said" ana="intEnd"/>
+                        si las armas no tomáis no osaría passar mas adelante<milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c69">
+                        Él las tomó:
+                        y passó delante:
+                    </cl>
+                    <cl xml:id="M5_p1_c70">
+                        y entrando por la puerta del castillo vio un escudero que venía llorando y dezía.
+                    </cl>
+                    <cl xml:id="M5_p1_c71">
+                        <!--Escudero2 -->
+                        <milestone unit="said" resp="#Escudero2" ana="start"/>Ay dios cómo matan al mejor cavallero del mundo:
+                        porque no haze una jura que no puede tener con derecho<milestone unit="said" ana="end"/>.
+                    </cl>
+                    <cl xml:id="M5_p1_c72">
+                        y passando por él vio el Donzel del Mar al rey <persName ref="#Perion">Perión</persName> que le hiziera cavallero assaz maltratado que le avía muerto el cavallo:
+                    </cl> 
+                    <!--I stopped here, milestone4 - CRO-->
+                    dos cavalleeros con peones sobre
                     él armados que lo herían por todas partes: y los cavalleros le dezían.Jura si no
                     muerto eres. El Donzel les dixo. Tiraos a fuera gente mala sobervia no pongáis
-                    mano en el mejor cavallero del mundo/ que todos por él moriréis. Entonces se
-                    partieron de los otros el un cavallero/ y cinco peones: y viniendo contra él le
+                    mano en el mejor cavallero del mundo que todos por él moriréis. Entonces se
+                    partieron de los otros el un cavallero y cinco peones: y viniendo contra él le
                     dixeron: a vos assí conviene que juréis: o sóis muerto. Cómo dixo él juraré
                     contra mi voluntad. Nunca serå si dios quisiere. Ellos dieron bozes al postero
-                    que cerasse la puerta: y el Donzel se dexó correr al cavallero/ y hiriólo con su
+                    que cerasse la puerta: y el Donzel se dexó correr al cavallero y hiriólo con su
                     lança en el escudo de manera que lo derribó en tierra por encima de las ancas
-                    del cavallo/ y al caer dio el cavallero con la cabeça en el suelo/ que se le
-                    torció el pescueço/ y fue tal como muerto/ y dexando los peones que lo herían
-                    fue para el otro y passóle el escudo/ y el arnés/ y metióle lança por los
-                    costados/ que no ovo menester maestro. Quando esto vio el rey Perión que del tal
-                    manera era acorrido/ essorçóse de se mejor defender: y con su espada grandes
+                    del cavallo y al caer dio el cavallero con la cabeça en el suelo que se le
+                    torció el pescueço y fue tal como muerto y dexando los peones que lo herían
+                    fue para el otro y passóle el escudo y el arnés y metióle lança por los
+                    costados que no ovo menester maestro. Quando esto vio el rey Perión que del tal
+                    manera era acorrido essorçóse de se mejor defender: y con su espada grandes
                     golpes en la gente de pie dava: mas el Donzel del Mar entró tan
                     desapoderadamente entre ellos con el cavallo y heriendo con su espada de tan
                     mortales y esquivos golpes/ que los más dellos hizo caer por el suelo. Assí con

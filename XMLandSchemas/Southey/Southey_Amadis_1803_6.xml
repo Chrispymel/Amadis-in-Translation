@@ -28,21 +28,98 @@
          <div type="chapter" xml:id="S6">
             <head>Chapter 6. <locus from="52" to="59"/>
             </head>
-            <p><!--Text will go here -CRO--> 
+            <p> 
 <!--PAGE 52-->
                <s>
                   <anchor ana="start" type="add"/>Then<anchor ana="end"/>
                   <anchor ana="start" corresp="#M5_p1_c1"/>the Child of the Sea gave his shield and helmet to <persName ref="#Gandalin">Gandalin</persName>,<anchor ana="end"/>
                   <anchor ana="start" corresp="#M5_p1_c2"/>and proceeded<anchor ana="end"/>.
                </s>
-               <anchor ana="start" corresp="#M5_p1_c3"/>They had not ridden far, when they saw a Damsel coming on her palfrey, and she had in her hand a lance with its belt,<anchor ana="end"/>
-               <anchor ana="start" corresp="#M5_p1_c4"/>and presently another Damsel<anchor ana="end"/>
-               <anchor ana="start" corresp="#M5_p1_c5"/>who came by a different path,<anchor ana="end"/>
-               <anchor ana="start" corresp="#M5_p1_c6"/>
-               <!--This is were I stopped-->
-               joined her, and they both came on communing together<anchor ana="end"/>.When they reached him, she with the weapon said, Take this lance, Sir, and I tell you that within three days it will stand ye in good stead, as therewith ye shall deliver from death the house whence ye are descended. He, wondering at her words, replied, How, Damsel, can a house live or die? She answered, So it will be; and this lance I give you for some services which from you I expect; the first whereof shall be when you shall do an honour to one of your friends, whereby he shall be put into the worst danger that any Knight hath been.
-PAGE 53
-these ten years space. Damsel, said he, such honour, if God please, I will not do my friend. She answered, So it will be, —and spurred her palfrey, and departed. Now this was Urganda the Un-known. The other Damsel who remained, then said to him, Sir Knight, I am from a strange land, and, if it please you, will abide with you till the third day, and defer my journey to my mistress. Whence are you? said he. From Denmark. And he knew this was truth, for he remembered the language of Oriana in her childhood. Then, said he, if ye please, Damsel, to go with me, I will defend ye to my power; but I pray ye, know ye that other Damsel? Never till this meeting: she told me that lance was for the best Knight in the world; and desired me, after her departure, to tell ye that she bare you great affection, and that her name was Urganda the Unknown. Ah God! quoth he, how unfortunate I am! and I cannot find her against her will! And thus devising they went until the dark evening overtook them. At this time they met a Squire, who asked where they were going. Along the road, replied the Child. That, quoth he, is true; but, if you mean.
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c3"/>They had not ridden far, when they saw a Damsel coming on her palfrey, and she had in her hand a lance with its belt,<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c4"/>and presently another Damsel<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c5"/>who came by a different path,<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c6"/>joined her, and they both came on communing together<anchor ana="end"/>.
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c7"/>When they reached him, she with the weapon said,<anchor ana="end"/>
+                  <milestone unit="said" ana="start" resp="#Urganda"/>
+                  <anchor ana="start" corresp="#M5_p1_c8"/>Take this lance, Sir, and I tell you that within three days it will stand ye in good stead, as therewith ye shall deliver from death the house whence ye are descended.<anchor ana="end"/>
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c9"/>He, wondering at her words,<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c10"/>replied,<anchor ana="end"/>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c11"/>How, Damsel, can a house live or die?<anchor ana="end"/>
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Urganda"/>
+                  <anchor ana="start" corresp="#M5_p1_c12"/>She answered, So it will be; and this lance I give you for some services which from you I expect;<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c13"/>the first whereof shall be when you shall do an honour to one of your friends, whereby he shall be put into the worst danger that any Knight hath been these ten years space<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c14"/>Damsel, said he,<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c15"/>such honour, if God please, I will not do my friend<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Urganda"/>
+                  <anchor ana="start" corresp="#M5_p1_c16"/>She answered, So it will be,<anchor ana="end"/>
+                  <milestone unit="said" ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c17"/>—and spurred her palfrey, and departed<anchor ana="end"/>.
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c18"/>Now this was Urganda the Un-known<anchor ana="end"/>.
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c19"/>The other Damsel who remained, then said to him,<anchor ana="end"/>
+                  <!--Need xml tag -->
+                  <milestone unit="said" ana="start" resp="#Donzella"/>
+                  <anchor ana="start" corresp="#M5_p1_c20"/>Sir Knight, I am from a strange land, and, if it please you, will abide with you till the third day, and defer my journey to my mistress<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               <s>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c21"/>Whence are you? said he<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               <s>
+                  <milestone unit="said" ana="start" resp="#Donzella"/>
+                  <anchor ana="start" corresp="#M5_p1_c22"/>From Denmark<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c23"/>And he knew this was truth,<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c24"/>for he remembered the language of Oriana in her childhood<anchor ana="end"/>.
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c25"/>Then, said he,<anchor ana="end"/>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c26"/>if ye please, Damsel, to go with me, I will defend ye to my power;<anchor ana="end"/>
+                  <anchor ana="start" corresp="#M5_p1_c27"/>but I pray ye, know ye that other Damsel?<anchor ana="end"/>
+                  <milestone unit="said" ana="end"/>
+               </s>
+               <s>
+                  <milestone unit="said" ana="start" resp="#Donzella"/>
+                  <anchor ana="start" corresp="#M5_p1_c28"/>Never till this meeting: she told me that lance was for the best Knight in the world; and desired me, after her departure, to tell ye that she bare you great affection, and that her name was Urganda the Unknown<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               <s>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c29"/>Ah God! quoth he, how unfortunate I am! and I cannot find her against her will<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c30"/>And thus devising they went until the dark evening overtook them. At this time they met a Squire<anchor ana="end"/>,
+               </s>  
+               <!--I stopped here milestone 4 - CRO-->
+               who asked where they were going. Along the road, replied the Child. That, quoth he, is true; but, if you mean.
 PAGE 54
 to have lodging, ye must turn aside from it. There is no dwelling-place near, except my father's castle, and there shall ye be well entertained. And this the Squire did, because far on was a castle which they could not pass without doing battle, and he had never seen the combat of Knights Errant. So they were well served that night, and, on the morrow when they departed, the Squire said he would bring them again into their way, as far as a castle which they must pass. After riding about three leagues they saw the castle, and a goodly one it seemed, for before it ran a river, and it had a drawbridge, whereon was a fair tower at the end. The Damsel and the Squires rode first, but as soon as the Damsel attempted to pass, six fellows armed with cuirasses and headpieces seized her bridle, and told her to swear or she should die. Swear what? quoth she. Swear never to show favour to your lover till he promise you to help King Abies against King Perion. With that she cried aloud for help, and the Child of the Sea caught a hatchet from one of the ruffians, and felled him. The rest fell upon him; one he sliced to the eyes, another from the shoulder to the ribs: seeing this, their comrades fled. Now, Damsel, proceed, quoth he, and evil be to
 PAGE 55
