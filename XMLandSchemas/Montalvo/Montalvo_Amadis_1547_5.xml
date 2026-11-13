@@ -485,12 +485,12 @@
                         donzella/ </cl>
                     <cl xml:id="M5_p1_c146"> la qual le dixo. </cl>
                     <cl xml:id="M5_p1_c147">
-                        <milestone unit="said" resp="#Donzella" ana="start"/>Señor cavallero yo os
+                        <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Señor cavallero yo os
                         aguardé por lo que donzella que la lança os dio me dixo/ que la traía para
                         el mejor cavallero del mundo/ y tanto he visto que conozco ser
                             verdad<milestone unit="said" ana="end"/>. </cl>
                     <cl xml:id="M5_p1_c148">
-                        <milestone unit="said" resp="#Donzella" ana="start"/>Agora quiero tornar a
+                        <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Agora quiero tornar a
                         mi camino por ver aquella mi señora que vos dixe<milestone unit="said"
                             ana="end"/>. </cl>
                     <cl xml:id="M5_p1_c149">
@@ -499,7 +499,7 @@
                             unit="said" ana="intEnd"/>.<milestone unit="said" ana="end"/>
                     </cl>
                     <cl xml:id="M5_p1_c150">
-                        <milestone unit="said" resp="#Donzella" ana="start"/>Oriana la hija del rey
+                        <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Oriana la hija del rey
                             <persName ref="#Lisuarte">Lisuarte</persName>
                         <milestone unit="said" ana="intStart"/>dixo ella<milestone unit="said"
                             ana="intEnd"/>.<milestone unit="said" ana="end"/>
@@ -514,7 +514,7 @@
                             coraçón<milestone unit="said" ana="end"/>. </cl>
                     <cl xml:id="M5_p1_c155"> La donzella dixo cuidando que otra dolencia fuesse. </cl>
                     <cl xml:id="M5_p1_c156">
-                        <milestone unit="said" resp="#Donzella" ana="start"/>Señor cavallero
+                        <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Señor cavallero
                         desarmaos que gran cuita ovistes<milestone unit="said" ana="end"/>. </cl>
                     <cl xml:id="M5_p1_c157">
                         <milestone unit="said" resp="#Amadis" ana="start"/>No es menester <milestone
@@ -525,7 +525,7 @@
                         <milestone unit="said" resp="#anon" ana="start"/>Váis a casa del rey
                             Languines<milestone unit="said" ana="end"/>. </cl>
                     <cl xml:id="M5_p1_c160">
-                        <milestone unit="said" resp="#Donzella" ana="start"/>si<milestone
+                        <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>si<milestone
                             unit="said" ana="end"/>. </cl>
                     <cl xml:id="M5_p1_c161">
                         <milestone unit="said" resp="#anon" ana="start"/>Pues yo os haré compañía
@@ -548,6 +548,7 @@
                     <cl xml:id="M5_p1_c169"> y rogó mucho al hombre bueno que lo criava que gelo
                         dixesse. </cl>
                     <cl xml:id="M5_p1_c170"> Mas él sabiendo cierto que en siendo cavallero se avía
+                        <!--Need to add a xml id here -cro -->
                         de combatir con el gigante <persName ref="#Albadán">Albadán</persName>/ </cl>
                     <cl xml:id="M5_p1_c171"> viniéronle las lágrimas a los ojos/ </cl>
                     <cl xml:id="M5_p1_c172"> y díxole. </cl>
