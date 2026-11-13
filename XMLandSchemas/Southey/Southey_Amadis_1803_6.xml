@@ -80,7 +80,7 @@
                <s>
                   <anchor ana="start" corresp="#M5_p1_c19"/>The other Damsel who remained, then said to him,<anchor ana="end"/>
                   <!--Need xml tag -->
-                  <milestone unit="said" ana="start" resp="#Donzella"/>
+                  <milestone unit="said" ana="start" resp="#Damsel_Denmark"/>
                   <anchor ana="start" corresp="#M5_p1_c20"/>Sir Knight, I am from a strange land, and, if it please you, will abide with you till the third day, and defer my journey to my mistress<anchor ana="end"/>.
                   <milestone unit="said" ana="end"/>
                </s>
@@ -90,7 +90,7 @@
                   <milestone unit="said" ana="end"/>
                </s>
                <s>
-                  <milestone unit="said" ana="start" resp="#Donzella"/>
+                  <milestone unit="said" ana="start" resp="#Damsel_Denmark"/>
                   <anchor ana="start" corresp="#M5_p1_c22"/>From Denmark<anchor ana="end"/>.
                   <milestone unit="said" ana="end"/>
                </s>
@@ -106,7 +106,7 @@
                   <milestone unit="said" ana="end"/>
                </s>
                <s>
-                  <milestone unit="said" ana="start" resp="#Donzella"/>
+                  <milestone unit="said" ana="start" resp="#Damsel_Denmark"/>
                   <anchor ana="start" corresp="#M5_p1_c28"/>Never till this meeting: she told me that lance was for the best Knight in the world; and desired me, after her departure, to tell ye that she bare you great affection, and that her name was Urganda the Unknown<anchor ana="end"/>.
                   <milestone unit="said" ana="end"/>
                </s>
@@ -119,11 +119,173 @@
                   <anchor ana="start" corresp="#M5_p1_c30"/>And thus devising they went until the dark evening overtook them. At this time they met a Squire<anchor ana="end"/>,
                </s>  
                <!--I stopped here milestone 4 - CRO-->
-               who asked where they were going. Along the road, replied the Child. That, quoth he, is true; but, if you mean.
-PAGE 54
-to have lodging, ye must turn aside from it. There is no dwelling-place near, except my father's castle, and there shall ye be well entertained. And this the Squire did, because far on was a castle which they could not pass without doing battle, and he had never seen the combat of Knights Errant. So they were well served that night, and, on the morrow when they departed, the Squire said he would bring them again into their way, as far as a castle which they must pass. After riding about three leagues they saw the castle, and a goodly one it seemed, for before it ran a river, and it had a drawbridge, whereon was a fair tower at the end. The Damsel and the Squires rode first, but as soon as the Damsel attempted to pass, six fellows armed with cuirasses and headpieces seized her bridle, and told her to swear or she should die. Swear what? quoth she. Swear never to show favour to your lover till he promise you to help King Abies against King Perion. With that she cried aloud for help, and the Child of the Sea caught a hatchet from one of the ruffians, and felled him. The rest fell upon him; one he sliced to the eyes, another from the shoulder to the ribs: seeing this, their comrades fled. Now, Damsel, proceed, quoth he, and evil be to
-PAGE 55
-them that encourage such villainy. But now as they went on, a great noise was heard in the castle, and the Damsel told him to take his arms. Fear not, said he, where ladies are so evil entreated, there can be no men worth anything. Sir, quoth she, I dare not go on unless you take your arms. So he took them, and proceeded through the gate of the castle, where they met a Squire lamenting aloud, —Ah God, they are killing the best Knight in the world for not taking an oath which he cannot keep! The Child of the Sea passed him, and saw King Perion beset by two Knights and ten Halberdiers, who had slain his horse, and now assailed him on all sides, crying, Swear or die. Traitors! quoth the Child, you shall die for him. With that they called to the porter to shut the castle-gate; and half of them, leaving King Perion, fell upon the Knight. But soon had he slain the two Knights, and rode among the Halberdiers, scattering them, till, with the King's help, they were all slain, except some few who got upon the walls. But then the Child alighted and followed them, and some in their fear leapt down, two only fled into a chamber, where lay an old Knight, so aged that he could not rise, who cried out, From whom are ye flying, villains? —From a Knight, who hath
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c31"/>who asked where they were going. Along the road, replied the Child<anchor ana="end"/>.
+               </s>
+              
+               <s>
+                  <milestone unit="said" ana="start" resp="#anon"/>
+                  <anchor ana="start" corresp="#M5_p1_c32"/>That, quoth he, is true; but, if you mean to have lodging, ye must turn aside from it<anchor ana="end"/>.
+                  <anchor ana="start" corresp="#M5_p1_c33"/>There is no dwelling-place near, except my father's castle<anchor ana="end"/>,
+                  <anchor ana="start" corresp="#M5_p1_c34"/>and there shall ye be well entertained<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c35"/><anchor ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c36"/>And this the Squire did<anchor ana="end"/>,
+                  <anchor ana="start" corresp="#M5_p1_c37"/>because far on was a castle which they could not pass without doing battle<anchor ana="end"/>,
+                  <anchor ana="start" corresp="#M5_p1_c38"/>and he had never seen the combat of Knights Errant<anchor ana="end"/>.
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c39"/>So they were well served that night<anchor ana="end"/>.
+                  <anchor ana="start" corresp="#M5_p1_c40"/><anchor ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c41"/>and, on the morrow when they departed<anchor ana="end"/>,
+                  <anchor ana="start" corresp="#M5_p1_c42"/>the Squire said he would bring them again into their way, as far as a castle which they must pass<anchor ana="end"/>.
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c43"/>After riding about three leagues they saw the castle<anchor ana="end"/>.
+                  <anchor ana="start" corresp="#M5_p1_c44"/>and a goodly one it seemed, for before it ran a river<anchor ana="end"/>,
+                  <anchor ana="start" corresp="#M5_p1_c45"/>and it had a drawbridge<anchor ana="end"/>,
+                  <anchor ana="start" corresp="#M5_p1_c46"/>whereon was a fair tower at the end<anchor ana="end"/>.
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c47"/><anchor ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c48"/><anchor ana="end"/>
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c49"/><anchor ana="end"/>
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c50"/><anchor ana="end"/>
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c51"/>The Damsel and the Squires rode first<anchor ana="end"/>.
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c52"/><anchor ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c53"/>but as soon as the Damsel attempted to pass, six fellows armed with cuirasses and headpieces seized her bridle<anchor ana="end"/>,
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c54"/>
+                  <milestone unit="said" ana="start" resp="#anon"/>and told her to swear or she should die.
+                  <milestone unit="said" ana="end"/>
+                  <milestone unit="said" ana="start" resp="#Damsel_Denmark"/>Swear what?
+                  <milestone unit="said" ana="intStart"/>quoth she<milestone unit="said" ana="intEnd"/>.
+                  <milestone unit="said" ana="end"/>
+                  <milestone unit="said" ana="start" resp="#anon"/>Swear never to show favour to your lover till he promise you to help King Abies against King Perion.<milestone unit="said" ana="end"/>
+                  <anchor ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c55"/>With that she cried aloud for help<anchor ana="end"/>,
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c56"/><anchor ana="end"/>
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c57"/><anchor ana="end"/>
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c58"/>and the Child of the Sea caught a hatchet from one of the ruffians, and felled him<anchor ana="end"/>.
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c59"/>The rest fell upon him; one he sliced to the eyes<anchor ana="end"/>,
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c60"/>another from the shoulder to the ribs<anchor ana="end"/>.
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c61"/>seeing this, their comrades fled<anchor ana="end"/>.
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c62"/><anchor ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c63"/><anchor ana="end"/>
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c64"/>Now, Damsel, proceed, quoth he, and evil be to them that encourage such villainy<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c65"/>But now as they went on, a great noise was heard in the castle<anchor ana="end"/>,
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Damsel_Denmark"/>
+                  <anchor ana="start" corresp="#M5_p1_c66"/>and the Damsel told him to take his arms<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Amadis"/>
+                  <anchor ana="start" corresp="#M5_p1_c67"/>Fear not, <milestone unit="said" ana="intStart"/>said he<milestone unit="said" ana="intEnd"/>, where ladies are so evil entreated, there can be no men worth anything<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#Damsel_Denmark"/>
+                  <anchor ana="start" corresp="#M5_p1_c68"/>Sir, <milestone unit="said" ana="intStart"/>quoth she<milestone unit="said" ana="intEnd"/>, I dare not go on unless you take your arms<anchor ana="end"/>.
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c69"/>So he took them, and proceeded<anchor ana="end"/>,
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c70"/>through the gate of the castle, where they met a Squire lamenting aloud<anchor ana="end"/>,
+               </s>
+               
+               <s>
+                  <milestone unit="said" ana="start" resp="#anon"/>
+                  <anchor ana="start" corresp="#M5_p1_c71"/>Ah God, they are killing the best Knight in the world for not taking an oath which he cannot keep!<anchor ana="end"/>
+                  <milestone unit="said" ana="end"/>
+               </s>
+               
+               <s>
+                  <anchor ana="start" corresp="#M5_p1_c72"/>The Child of the Sea passed him, and saw King Perion beset by two Knights and ten Halberdiers, who had slain his horse, and now assailed him on all sides, crying, Swear or die<anchor ana="end"/>.
+               </s>
+               <!--Stopped here, milestone 5-->
+
+Traitors! quoth the Child, you shall die for him. With that they called to the porter to shut the castle-gate; and half of them, leaving King Perion, fell upon the Knight. But soon had he slain the two Knights, and rode among the Halberdiers, scattering them, till, with the King's help, they were all slain, except some few who got upon the walls. 
+
+But then the Child alighted and followed them, and some in their fear leapt down, two only fled into a chamber, where lay an old Knight, so aged that he could not rise, who cried out, From whom are ye flying, villains? —From a Knight, who hath
 PAGE 56
                played * the devil in your castle, killed both your   
                <!--This is how the * is dealt with in other previous TEI's-->

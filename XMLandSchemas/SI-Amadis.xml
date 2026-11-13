@@ -10,6 +10,7 @@
             <author>Stacey Triplette</author>
             <author>Elisa Beshero-Bondar</author>
             <author>Helena Bermúdez Sabel</author>
+            <author>Colin O'Donnell</author>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -34,6 +35,13 @@
                   <persName>
                      <surname>Beshero-Bondar</surname>
                      <forename>Elisa</forename>
+                     <roleName>Editor</roleName>
+                  </persName>
+               </person>
+               <person xml:id="cro">
+                  <persName>
+                     <surname>O'Donnell</surname>
+                     <forename>Colin</forename>
                      <roleName>Editor</roleName>
                   </persName>
                </person>
@@ -351,6 +359,13 @@
                   <persName>Abiseos</persName>
                   <note resp="#set">Abiseos is Briolanja's uncle. He usurped the kingdom of
                      Sobradisa from his brother. Amadís and company eventually defeat him.</note>
+               </person>
+               <!--Added King Abies - Colin O'Donnell -->
+               <person xml:id="Abies">
+                  <persName>Abiés</persName>
+                  <persName>el rey Abiés</persName>
+                  <note resp="#cro">King Abiés is the king of Ireland. He is an antagonist, particularly to King Perión, Amadís's father.
+                     Amadís has a duel with him and eventually kills him.</note>
                </person>
                <person xml:id="Darasion">
                   <persName>Darasión</persName>
