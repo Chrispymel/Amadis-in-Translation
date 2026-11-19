@@ -414,6 +414,10 @@
                   <persName>Baláis de Carsante</persName>
                   <note resp="#ebb">Balays of Carsante is grateful to Amadis for rescuing him from the dungeon of the magician Arcalaus. He prevents Galaor and Amadis from unwittingly killing each other by revealing their concealed identities.<!--Stacey: you may want to rewrite this one!--></note>
                </person>
+               <person xml:id="Albadan">
+                  <persName>Albadán</persName>
+                  <note resp="#cro">A giant who takes Galaor to his castle and trains him in arms.</note>
+               </person>
             </listPerson>
          </div>
          <div type="fictional_places">
@@ -473,6 +477,10 @@
                <place xml:id="Ireland">
                   <placeName>Ireland</placeName>
                   <note resp="#ebb">Land where <persName ref="#Amadis">Amadis</persName> is fostered by <persName ref="#Gandales">Gandales</persName> alongside his own son <persName ref="#Gandalin">Gandalin</persName>.</note>
+               </place>
+               <place xml:id="Gaula">
+                  <placeName>Gaula</placeName>
+                  <note resp="#cro">Kingdom associated with <persName ref="#Amadis">Amadis</persName> of Gaul.</note>
                </place>
             </listPlace>
          </div>

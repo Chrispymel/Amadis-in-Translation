@@ -206,7 +206,6 @@
                             unit="said" ana="intStart"/>dixo el escudero<milestone unit="said"
                             ana="intEnd"/>: más si aposentar vos queréis en poblado coverná que lo
                         dexéis: </cl>
-                    <!--Page 2 -->
                     <cl xml:id="M5_p1_c33"> que de aquí a gran pieça no se hallará sino una
                         fortaleza que es de mi padre: </cl>
                     <cl xml:id="M5_p1_c34"> y assí se os hará todo servicio<milestone unit="said"
@@ -263,396 +262,399 @@
                         diole tal herida con el cuento/ que lo batió e tierra: </cl>
                     <cl xml:id="M5_p1_c59"> los otros començaron lo a herir mas él dio al uno tal
                         golpe que lo hendió hasta los ojos: </cl>
-                    <cl xml:id="M5_p1_c60"> y herió a otro en el ombro: y cortóle hasta los huessos
+                    <!--Page 2 starts here -->
+                    <cl xml:id="M5_p2_c60"> y herió a otro en el ombro: y cortóle hasta los huessos
                         de los costados. </cl>
-                    <cl xml:id="M5_p1_c61"> Quando los ostros vieron estos do muertos de tales
+                    <cl xml:id="M5_p2_c61"> Quando los ostros vieron estos do muertos de tales
                         golpes no fueron seguros: y començaron a huir: </cl>
-                    <cl xml:id="M5_p1_c62"> él tiró al uno la hacha que bien media pierna le cortó: </cl>
-                    <cl xml:id="M5_p1_c63"> y dixo a la donzella. </cl>
-                    <cl xml:id="M5_p1_c64">
+                    <cl xml:id="M5_p2_c62"> él tiró al uno la hacha que bien media pierna le cortó: </cl>
+                    <cl xml:id="M5_p2_c63"> y dixo a la donzella. </cl>
+                    <cl xml:id="M5_p2_c64">
                         <milestone unit="said" resp="#Amadis" ana="start"/>Id adelante que mal ayan
                         quantos tienen por derecho que ningún villano ponga mano dueña ni en
                             donzella<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c65"> Entonces fueron a delante por la puente oyveron del otro
+                    <cl xml:id="M5_p2_c65"> Entonces fueron a delante por la puente oyveron del otro
                         cabo a la parte del castillo gran rebuelta. </cl>
-                    <cl xml:id="M5_p1_c66">
+                    <cl xml:id="M5_p2_c66">
                         <!--Donzella again -->
                         <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Dixo la donzella
                         gran ruido de gente suena y yo sería en ue tomássedes vuestras
                             armas<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c67">
+                    <cl xml:id="M5_p2_c67">
                         <milestone unit="said" resp="#Amadis" ana="start"/>No temáis <milestone
                             unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>
                         que en parte donde las mugeres son maltratadas que deven andar seguras: no
                         puede aver hombre que nada valga<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c68">
+                    <cl xml:id="M5_p2_c68">
                         <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Señor <milestone
                             unit="said" ana="intStart"/>dixo ella<milestone unit="said" ana="intEnd"
                         /> si las armas no tomáis no osaría passar mas adelante<milestone
                             unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c69"> Él las tomó: y passó delante: </cl>
-                    <cl xml:id="M5_p1_c70"> y entrando por la puerta del castillo vio un escudero
+                    <cl xml:id="M5_p2_c69"> Él las tomó: y passó delante: </cl>
+                    <cl xml:id="M5_p2_c70"> y entrando por la puerta del castillo vio un escudero
                         que venía llorando y dezía. </cl>
-                    <cl xml:id="M5_p1_c71">
+                    <cl xml:id="M5_p2_c71">
                         <!--Escudero2 -->
                         <milestone unit="said" resp="#anon" ana="start"/>Ay dios cómo matan al mejor
                         cavallero del mundo: porque no haze una jura que no puede tener con
                             derecho<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c72"> y passando por él vio el Donzel del Mar al rey <persName
+                    <cl xml:id="M5_p2_c72"> y passando por él vio el Donzel del Mar al rey <persName
                             ref="#Perion">Perión</persName> que le hiziera cavallero assaz
                         maltratado que le avía muerto el cavallo: </cl>
                     <!--I stopped here, milestone4 - CRO-->
-                    <cl xml:id="M5_p1_c73"> dos cavalleeros con peones sobre él armados que lo
+                    <cl xml:id="M5_p2_c73"> dos cavalleeros con peones sobre él armados que lo
                         herían por todas partes: </cl>
-                    <cl xml:id="M5_p1_c74"> y los cavalleros le dezían. <milestone unit="said"
+                    <cl xml:id="M5_p2_c74"> y los cavalleros le dezían. <milestone unit="said"
                             resp="#anon" ana="start"/>Jura si no muerto eres<milestone unit="said"
                             ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c75"> El Donzel les dixo. </cl>
-                    <cl xml:id="M5_p1_c76">
+                    <cl xml:id="M5_p2_c75"> El Donzel les dixo. </cl>
+                    <cl xml:id="M5_p2_c76">
                         <milestone unit="said" resp="#Amadis" ana="start"/>Tiraos a fuera gente mala
                         sobervia no pongáis mano en el mejor cavallero del mundo que todos por él
                             moriréis<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c77"> Entonces se partieron de los otros el un cavallero y
+                    <cl xml:id="M5_p2_c77"> Entonces se partieron de los otros el un cavallero y
                         cinco peones: </cl>
-                    <cl xml:id="M5_p1_c78"> y viniendo contra él le dixeron. </cl>
-                    <cl xml:id="M5_p1_c79">
+                    <cl xml:id="M5_p2_c78"> y viniendo contra él le dixeron. </cl>
+                    <cl xml:id="M5_p2_c79">
                         <milestone unit="said" resp="#anon" ana="start"/>a vos assí conviene que
                         juréis: o sóis muerto<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c80">
+                    <cl xml:id="M5_p2_c80">
                         <milestone unit="said" resp="#Amadis" ana="start"/>Cómo <milestone
                             unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>
                         juraré contra mi voluntad. Nunca serå si dios quisiere<milestone unit="said"
                             ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c81"> Ellos dieron bozes al postero que cerasse la puerta: </cl>
-                    <cl xml:id="M5_p1_c82"> y el Donzel se dexó correr al cavallero y hiriólo con su
+                    <cl xml:id="M5_p2_c81"> Ellos dieron bozes al postero que cerasse la puerta: </cl>
+                    <cl xml:id="M5_p2_c82"> y el Donzel se dexó correr al cavallero y hiriólo con su
                         lança en el escudo de manera que lo derribó en tierra por encima de las
                         ancas del cavallo </cl>
-                    <cl xml:id="M5_p1_c83"> y al caer dio el cavallero con la cabeça en el suelo que
+                    <cl xml:id="M5_p2_c83"> y al caer dio el cavallero con la cabeça en el suelo que
                         se le torció el pescueço y fue tal como muerto </cl>
-                    <cl xml:id="M5_p1_c84"> y dexando los peones que lo herían fue para el otro y
+                    <cl xml:id="M5_p2_c84"> y dexando los peones que lo herían fue para el otro y
                         passóle el escudo y el arnés y metióle lança por los costados que no ovo
                         menester maestro. </cl>
-                    <cl xml:id="M5_p1_c85"> Quando esto vio el rey <persName ref="#Perion"
+                    <cl xml:id="M5_p2_c85"> Quando esto vio el rey <persName ref="#Perion"
                             >Perión</persName> que del tal manera era acorrido essorçóse de se mejor
                         defender: </cl>
-                    <cl xml:id="M5_p1_c86"> y con su espada grandes golpes en la gente de pie dava: </cl>
-                    <cl xml:id="M5_p1_c87"> mas el Donzel del Mar entró tan desapoderadamente entre
+                    <cl xml:id="M5_p2_c86"> y con su espada grandes golpes en la gente de pie dava: </cl>
+                    <cl xml:id="M5_p2_c87"> mas el Donzel del Mar entró tan desapoderadamente entre
                         ellos con el cavallo y heriendo con su espada de tan mortales y esquivos
                         golpes/ que los más dellos hizo caer por el suelo. </cl>
-                    <cl xml:id="M5_p1_c88"> Assí con esto como con lo que el rey hazía: </cl>
-                    <cl xml:id="M5_p1_c89"> no tardó mucho en ser todos destroçados: </cl>
-                    <cl xml:id="M5_p1_c90"> y algunos que huir pudieron subiéronse al muro: </cl>
-                    <cl xml:id="M5_p1_c91"> mas el Donzel se apeó del cavallo y fue tras ellos/ </cl>
-                    <cl xml:id="M5_p1_c92"> y tan grande era el miedo que llevavan: </cl>
-                    <cl xml:id="M5_p1_c93"> que no le osando esperar se dexavan caer de la cerca
+                    <cl xml:id="M5_p2_c88"> Assí con esto como con lo que el rey hazía: </cl>
+                    <cl xml:id="M5_p2_c89"> no tardó mucho en ser todos destroçados: </cl>
+                    <cl xml:id="M5_p2_c90"> y algunos que huir pudieron subiéronse al muro: </cl>
+                    <cl xml:id="M5_p2_c91"> mas el Donzel se apeó del cavallo y fue tras ellos/ </cl>
+                    <cl xml:id="M5_p2_c92"> y tan grande era el miedo que llevavan: </cl>
+                    <cl xml:id="M5_p2_c93"> que no le osando esperar se dexavan caer de la cerca
                         ayuso salvo dos dellos/ </cl>
-                    <cl xml:id="M5_p1_c94"> que se metieron en una cámara: </cl>
-                    <cl xml:id="M5_p1_c95"> y el Donzel que los seguía entró en pos dellos: </cl>
-                    <cl xml:id="M5_p1_c96"> y vio en un lecho un hombre tan viejo: </cl>
-                    <cl xml:id="M5_p1_c97"> que de allí no se podía levantar y dezía a bozes. </cl>
-                    <cl xml:id="M5_p1_c98">
+                    <cl xml:id="M5_p2_c94"> que se metieron en una cámara: </cl>
+                    <cl xml:id="M5_p2_c95"> y el Donzel que los seguía entró en pos dellos: </cl>
+                    <cl xml:id="M5_p2_c96"> y vio en un lecho un hombre tan viejo: </cl>
+                    <cl xml:id="M5_p2_c97"> que de allí no se podía levantar y dezía a bozes. </cl>
+                    <cl xml:id="M5_p2_c98">
                         <milestone unit="said" resp="#anon" ana="start"/>Villianos malos ante quien
                             huís<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c99">
+                    <cl xml:id="M5_p2_c99">
                         <milestone unit="said" resp="#anon" ana="start"/>Ante un cavallero<milestone
                             unit="said" ana="intStart"/>dixeron ellos<milestone unit="said"
                             ana="intEnd"/> que faze diabluras: y ha muerto a vuestros sobrinos
                         ambos: y a todos nuestros compañeros<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c100"> El Donzel dixo a uno dellos. </cl>
-                    <cl xml:id="M5_p1_c101">
+                    <cl xml:id="M5_p2_c100"> El Donzel dixo a uno dellos. </cl>
+                    <cl xml:id="M5_p2_c101">
                         <milestone unit="said" resp="#Amadis" ana="start"/>muéstrame a tu señor si
                         no muerto eres<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c102"> Él le mostró el viejo que en el lecho yazía: </cl>
-                    <cl xml:id="M5_p1_c103"> el se començó a santiguar y dixo. </cl>
-                    <cl xml:id="M5_p1_c104">
+                    <cl xml:id="M5_p2_c102"> Él le mostró el viejo que en el lecho yazía: </cl>
+                    <cl xml:id="M5_p2_c103"> el se començó a santiguar y dixo. </cl>
+                    <cl xml:id="M5_p2_c104">
                         <milestone unit="said" resp="#Amadis" ana="start"/>Viejo malo estás en él
                         passó de la muerte/ y tienes tal comstumbre: Si agora pudiéssedes tomar
                         armas provaros ía que érades traidor/ y assí lo soís a dios y a vuestra
                             alma<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c105"> Entonces hizo semblnate que le quería dar con el
+                    <cl xml:id="M5_p2_c105"> Entonces hizo semblnate que le quería dar con el
                         espada: </cl>
-                    <cl xml:id="M5_p1_c106"> y el viejo dixo. </cl>
-                    <cl xml:id="M5_p1_c107">
+                    <cl xml:id="M5_p2_c106"> y el viejo dixo. </cl>
+                    <cl xml:id="M5_p2_c107">
                         <milestone unit="said" resp="#anon" ana="start"/>Ay señor merced no me
                             matéis<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c108">
+                    <cl xml:id="M5_p2_c108">
                         <milestone unit="said" resp="#Amadis" ana="start"/>muerto sois <milestone
                             unit="said" ana="intStart"/>dixo el Donzel del Mar<milestone unit="said"
                             ana="intEnd"/>: sino juráis que tal costumbre nunca más en vuestra vida
                         mantenida a será<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c109"> él lo juró. </cl>
-                    <cl xml:id="M5_p1_c110">
+                    <cl xml:id="M5_p2_c109"> él lo juró. </cl>
+                    <cl xml:id="M5_p2_c110">
                         <milestone unit="said" resp="#Amadis" ana="start"/>Pues agora me dezid por
                         qué manteníades esta costumbre<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c111">
+                    <cl xml:id="M5_p2_c111">
                         <milestone unit="said" resp="#anon" ana="start"/>Por el rey <persName
                             ref="#Abies">Abiés</persName> de Irlanda <milestone unit="said"
                             ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>/ que es mi
                         sobrino y yo no lo puedo ayudar con el cuerpo quisiérale ayudar con los
                         cavalleros andantes<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c112">
+                    <cl xml:id="M5_p2_c112">
                         <milestone unit="said" resp="#Amadis" ana="start"/>Viejo falsó<milestone
                             unit="said" ana="intStart"/>dixo el Donzel<milestone unit="said"
                             ana="intEnd"/>: que han de aver los cavallos en vuestra ayuda ni
                             estorvo<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c113"> Entonces dio del pie al lecho y tornólo sobre él: </cl>
-                    <cl xml:id="M5_p1_c114"> y encomedándole a todos los diablos del infierno se
+                    <cl xml:id="M5_p2_c113"> Entonces dio del pie al lecho y tornólo sobre él: </cl>
+                    <cl xml:id="M5_p2_c114"> y encomedándole a todos los diablos del infierno se
                         salió al corral: </cl>
-                    <cl xml:id="M5_p1_c115"> y fue a tomar uno de los cavallos de los cavallos que
+                    <cl xml:id="M5_p2_c115"> y fue a tomar uno de los cavallos de los cavallos que
                         matara y tráxole al rey y dixo. </cl>
-                    <cl xml:id="M5_p1_c116">
+                    <cl xml:id="M5_p2_c116">
                         <milestone unit="said" resp="#Amadis" ana="start"/>Cavalagad señor que poco
                         me contento deste lugar ni de los que en él son<milestone unit="said"
                             ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c117"> Entonces cavalgaron y salieron fuera del castillo/ </cl>
-                    <cl xml:id="M5_p1_c118"> y el Donzel del Mar no tiró su yelmo porque el rey no
+                    <cl xml:id="M5_p2_c117"> Entonces cavalgaron y salieron fuera del castillo/ </cl>
+                    <cl xml:id="M5_p2_c118"> y el Donzel del Mar no tiró su yelmo porque el rey no
                         lo conociesse: </cl>
-                    <cl xml:id="M5_p1_c119"> y siendo ya fuera dixo él rey. </cl>
-                    <cl xml:id="M5_p1_c120">
+                    <cl xml:id="M5_p2_c119"> y siendo ya fuera dixo él rey. </cl>
+                    <cl xml:id="M5_p2_c120">
                         <milestone unit="said" resp="#Perion" ana="start"/>Amigo señor quien sois
                         que me acorristes seyenndo cerca de la muerte: y me tirastes de mi estorvo
                         muchos cavalleros andates: y los amigos de las donzellas que por aquí
                         passassen: que yo soy aquel contra quien de jurar avían<milestone
                             unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c121">
+                    <!--Page 3 starts here--> 
+                    <cl xml:id="M5_p3_c121">
                         <milestone unit="said" resp="#Amadis" ana="start"/>señor<milestone
                             unit="said" ana="intStart"/>dixo el Donzel del Mar<milestone unit="said"
                             ana="intEnd"/> yo soy un cavallero que ove gana de os servir<milestone
                             unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c122">
+                    <cl xml:id="M5_p3_c122">
                         <milestone unit="said" resp="#Perion" ana="start"/>Cavallero<milestone
                             unit="said" ana="intStart"/>dixo el<milestone unit="said" ana="intEnd"/>
                         esto veo yo bien: que apenas podría hombre hallar otro tan buen socorro:
                         pero no os dexare sin que os conozca<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c123">
+                    <cl xml:id="M5_p3_c123">
                         <milestone unit="said" resp="#Amadis" ana="start"/>esso no tiene a vos ni a
                         mí por dixo el Donzel. <milestone unit="said" ana="end"/>
                     </cl>
-                    <cl xml:id="M5_p1_c124">
+                    <cl xml:id="M5_p3_c124">
                         <milestone unit="said" resp="#Perion" ana="start"/>Pues ruégoos por cortesía
                         que os triéis el yelmo<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c125"> el abaxo la cabeça y no respondió: </cl>
-                    <cl xml:id="M5_p1_c126"> mas el Donzel rogó a la donzella que se lo tirasse: </cl>
-                    <cl xml:id="M5_p1_c127"> y ella le dixo. </cl>
-                    <cl xml:id="M5_p1_c128">
+                    <cl xml:id="M5_p3_c125"> el abaxo la cabeça y no respondió: </cl>
+                    <cl xml:id="M5_p3_c126"> mas el Donzel rogó a la donzella que se lo tirasse: </cl>
+                    <cl xml:id="M5_p3_c127"> y ella le dixo. </cl>
+                    <cl xml:id="M5_p3_c128">
                         <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Señor hazed el
                         ruego al rey que tanto lo dessea<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c129"> pero él no quiso/ </cl>
-                    <cl xml:id="M5_p1_c130"> y la donzella le quitó el yelmo contra su voluntad: </cl>
-                    <cl xml:id="M5_p1_c131"> y como el rey le vio el rostro/ conosció ser aquél el
+                    <cl xml:id="M5_p3_c129"> pero él no quiso/ </cl>
+                    <cl xml:id="M5_p3_c130"> y la donzella le quitó el yelmo contra su voluntad: </cl>
+                    <cl xml:id="M5_p3_c131"> y como el rey le vio el rostro/ conosció ser aquél el
                         Donzel que él armara cavallero por ruego de las donzellas: </cl>
-                    <cl xml:id="M5_p1_c132"> y abraçándolo dixo. </cl>
-                    <cl xml:id="M5_p1_c133">
+                    <cl xml:id="M5_p3_c132"> y abraçándolo dixo. </cl>
+                    <cl xml:id="M5_p3_c133">
                         <milestone unit="said" resp="#Perion" ana="start"/>por dios amigo agora os
                         conozco yo mejor que ante<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c134">
+                    <cl xml:id="M5_p3_c134">
                         <milestone unit="said" resp="#Amadis" ana="start"/>Señor<milestone
                             unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"
                         />. Yo bien os conocí que me distes honrra de cavallería: lo que si a dios
-                        pluguiere os serviré e vuestra guerra de Gaula: tanto que otorgado me fuere:
+                        pluguiere os serviré e vuestra guerra de <placeName>Gaula</placeName>: tanto que otorgado me fuere:
                         y hasta entonces no quisiera dárosme a conocer<milestone unit="said"
                             ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c135">
+                    <cl xml:id="M5_p3_c135">
                         <milestone unit="said" resp="#Perion" ana="start"/>Mucho os lo
                             agradezco<milestone unit="said" ana="intStart"/>dixo el rey<milestone
                             unit="said" ana="intEnd"/> que por mí hazéis tanto/ que más ser no
                         puede: y dó muchas gracias a dios que por mí fue hecha tal obra<milestone
                             unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c136"> Esto dezía por le aver hecho cavallero: </cl>
-                    <cl xml:id="M5_p1_c137"> que del deudo que le avía ni lo sabía ni lo pensava. </cl>
-                    <cl xml:id="M5_p1_c138"> Hablando en esto llegaron a dos carreras: </cl>
-                    <cl xml:id="M5_p1_c139"> y dixo el Donzel del Mar. </cl>
-                    <cl xml:id="M5_p1_c140">
+                    <cl xml:id="M5_p3_c136"> Esto dezía por le aver hecho cavallero: </cl>
+                    <cl xml:id="M5_p3_c137"> que del deudo que le avía ni lo sabía ni lo pensava. </cl>
+                    <cl xml:id="M5_p3_c138"> Hablando en esto llegaron a dos carreras: </cl>
+                    <cl xml:id="M5_p3_c139"> y dixo el Donzel del Mar. </cl>
+                    <cl xml:id="M5_p3_c140">
                         <milestone unit="said" resp="#Amadis" ana="start"/>Señor qual destas queréis
                             seguir<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c141">
+                    <cl xml:id="M5_p3_c141">
                         <milestone unit="said" resp="#Perion" ana="start"/>esta que va a la
                         siniestra parte<milestone unit="said" ana="intStart"/>dixo él<milestone
                             unit="said" ana="intEnd"/>/ que es la derecha para ir a mi
                             tierra<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c142">
+                    <cl xml:id="M5_p3_c142">
                         <milestone unit="said" resp="#Amadis" ana="start"/>A dios váis <milestone
                             unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"/>
                         que tomara yo la otra<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c143">
+                    <cl xml:id="M5_p3_c143">
                         <milestone unit="said" resp="#Perion" ana="start"/>Dios vos guié <milestone
                             unit="said" ana="intStart"/>dixo el rey<milestone unit="said"
                             ana="intEnd"/>: </cl>
-                    <cl xml:id="M5_p1_c144"> y miémbreos lo que me prometistes: que vuestra ayuda me
+                    <cl xml:id="M5_p3_c144"> y miémbreos lo que me prometistes: que vuestra ayuda me
                         ha quitado la mayor parte del pavor/ y me pone en la esperança de con ella
                         ser remediada mi pérdida<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c145"> Entonces se fue se vía y el Donzel quedó con la
+                    <cl xml:id="M5_p3_c145"> Entonces se fue se vía y el Donzel quedó con la
                         donzella/ </cl>
-                    <cl xml:id="M5_p1_c146"> la qual le dixo. </cl>
-                    <cl xml:id="M5_p1_c147">
+                    <cl xml:id="M5_p3_c146"> la qual le dixo. </cl>
+                    <cl xml:id="M5_p3_c147">
                         <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Señor cavallero yo os
                         aguardé por lo que donzella que la lança os dio me dixo/ que la traía para
                         el mejor cavallero del mundo/ y tanto he visto que conozco ser
                             verdad<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c148">
+                    <cl xml:id="M5_p3_c148">
                         <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Agora quiero tornar a
                         mi camino por ver aquella mi señora que vos dixe<milestone unit="said"
                             ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c149">
+                    <cl xml:id="M5_p3_c149">
                         <milestone unit="said" resp="#Amadis" ana="start"/>E quien es ella
                             <milestone unit="said" ana="intStart"/>dixo el Donzel del Mar<milestone
                             unit="said" ana="intEnd"/>.<milestone unit="said" ana="end"/>
                     </cl>
-                    <cl xml:id="M5_p1_c150">
+                    <cl xml:id="M5_p3_c150">
                         <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Oriana la hija del rey
                             <persName ref="#Lisuarte">Lisuarte</persName>
                         <milestone unit="said" ana="intStart"/>dixo ella<milestone unit="said"
                             ana="intEnd"/>.<milestone unit="said" ana="end"/>
                     </cl>
-                    <cl xml:id="M5_p1_c151"> Quando él oyó mentar a su señora estremeciósele el
+                    <cl xml:id="M5_p3_c151"> Quando él oyó mentar a su señora estremeciósele el
                         coraçón tan fuertemente/ que por poco cayera del cavallo: </cl>
-                    <cl xml:id="M5_p1_c152"> y <persName ref="#Gandalin">Gandalín</persName> que
+                    <cl xml:id="M5_p3_c152"> y <persName ref="#Gandalin">Gandalín</persName> que
                         assí lo vio atónito: abraçóse con él: </cl>
-                    <cl xml:id="M5_p1_c153"> y el Donzel dixo. </cl>
-                    <cl xml:id="M5_p1_c154">
+                    <cl xml:id="M5_p3_c153"> y el Donzel dixo. </cl>
+                    <cl xml:id="M5_p3_c154">
                         <milestone unit="said" resp="#Amadis" ana="start"/>muerto soy del
                             coraçón<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c155"> La donzella dixo cuidando que otra dolencia fuesse. </cl>
-                    <cl xml:id="M5_p1_c156">
+                    <cl xml:id="M5_p3_c155"> La donzella dixo cuidando que otra dolencia fuesse. </cl>
+                    <cl xml:id="M5_p3_c156">
                         <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>Señor cavallero
                         desarmaos que gran cuita ovistes<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c157">
+                    <cl xml:id="M5_p3_c157">
                         <milestone unit="said" resp="#Amadis" ana="start"/>No es menester <milestone
                             unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"
                         />: que a menudo he este mal<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c158"> El escudero que ya oístes dixo a la donzella. </cl>
-                    <cl xml:id="M5_p1_c159">
+                    <cl xml:id="M5_p3_c158"> El escudero que ya oístes dixo a la donzella. </cl>
+                    <cl xml:id="M5_p3_c159">
                         <milestone unit="said" resp="#anon" ana="start"/>Váis a casa del rey
                             Languines<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c160">
+                    <cl xml:id="M5_p3_c160">
                         <milestone unit="said" resp="#Damsel_Denmark" ana="start"/>si<milestone
                             unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c161">
+                    <cl xml:id="M5_p3_c161">
                         <milestone unit="said" resp="#anon" ana="start"/>Pues yo os haré compañía
                             <milestone unit="said" ana="intStart"/>dixo él<milestone unit="said"
                             ana="intEnd"/>/ que tengo de ser aí a plazo cierto<milestone unit="said"
                             ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c162"> Y despidiéndose del Donzel del mar se tornaron por la
+                    <cl xml:id="M5_p3_c162"> Y despidiéndose del Donzel del mar se tornaron por la
                         vía que allí vinieron: </cl>
-                    <cl xml:id="M5_p1_c163"> y él se fue por su camino donde la ventura la guiava. </cl>
-                    <cl xml:id="M5_p1_c164"> El actor aquí dexa de hablar del Donzel del Mar y torna
+                    <cl xml:id="M5_p3_c163"> y él se fue por su camino donde la ventura la guiava. </cl>
+                    <cl xml:id="M5_p3_c164"> El actor aquí dexa de hablar del Donzel del Mar y torna
                         a contar de don Galaor su hermano que el gigante ovo llevado. </cl>
-                    <cl xml:id="M5_p1_c165"> Don Galaor que con el hermitaño se criava como ya
+                    <cl xml:id="M5_p3_c165"> Don Galaor que con el hermitaño se criava como ya
                         oístes seyendo ya en edad de diez y ocho años hízose vailente de cuerpo y
                         membrudo: </cl>
-                    <cl xml:id="M5_p1_c166"> y siempre leía en unos libros que el buen hombre le
+                    <cl xml:id="M5_p3_c166"> y siempre leía en unos libros que el buen hombre le
                         dava de los hechos antiguos que los cavalleros en armas passaron: </cl>
-                    <cl xml:id="M5_p1_c167"> de manera que quasi con aquello como con lo natural con
+                    <cl xml:id="M5_p3_c167"> de manera que quasi con aquello como con lo natural con
                         que nasciera fue movido a gran desseo de ser cavallero/ </cl>
-                    <cl xml:id="M5_p1_c168"> pero no sabía si de derecho de devía ser/ </cl>
-                    <cl xml:id="M5_p1_c169"> y rogó mucho al hombre bueno que lo criava que gelo
+                    <cl xml:id="M5_p3_c168"> pero no sabía si de derecho de devía ser/ </cl>
+                    <cl xml:id="M5_p3_c169"> y rogó mucho al hombre bueno que lo criava que gelo
                         dixesse. </cl>
-                    <cl xml:id="M5_p1_c170"> Mas él sabiendo cierto que en siendo cavallero se avía
+                    <cl xml:id="M5_p3_c170"> Mas él sabiendo cierto que en siendo cavallero se avía
                         <!--Need to add a xml id here -cro -->
-                        de combatir con el gigante <persName ref="#Albadán">Albadán</persName>/ </cl>
-                    <cl xml:id="M5_p1_c171"> viniéronle las lágrimas a los ojos/ </cl>
-                    <cl xml:id="M5_p1_c172"> y díxole. </cl>
-                    <cl xml:id="M5_p1_c173">
+                        de combatir con el gigante <persName ref="#Albadan">Albadán</persName>/ </cl>
+                    <cl xml:id="M5_p3_c171"> viniéronle las lágrimas a los ojos/ </cl>
+                    <cl xml:id="M5_p3_c172"> y díxole. </cl>
+                    <cl xml:id="M5_p3_c173">
                         <milestone unit="said" resp="#anon" ana="start"/>Mi hijo mejor sería que
                         tomassedes otra vía más segura para vuestra alma: </cl>
-                    <cl xml:id="M5_p1_c174"> que poneros en las armas y en la orden de cavallería:
+                    <cl xml:id="M5_p3_c174"> que poneros en las armas y en la orden de cavallería:
                         que muy trabajosa es de mantener<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c175">
+                    <cl xml:id="M5_p3_c175">
                         <milestone unit="said" resp="#Galaor" ana="start"/>Mi señor <milestone
                             unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"
                         />: muy mal podría yo seguir aquello que contra mi voluntad tomasse: </cl>
-                    <cl xml:id="M5_p1_c176"> y en esto que mi coraçón se otorga/ </cl>
-                    <cl xml:id="M5_p1_c177"> si Dios me diere ventura yo lo passare a su servicio:
+                    <cl xml:id="M5_p3_c176"> y en esto que mi coraçón se otorga/ </cl>
+                    <cl xml:id="M5_p3_c177"> si Dios me diere ventura yo lo passare a su servicio:
                         que fuera desto no querría que lavida me quedasse<milestone unit="said"
                             ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c178"> El hombre bueno que vio su voluntad díxole. </cl>
-                    <cl xml:id="M5_p1_c179">
+                    <cl xml:id="M5_p3_c178"> El hombre bueno que vio su voluntad díxole. </cl>
+                    <cl xml:id="M5_p3_c179">
                         <milestone unit="said" resp="#anon" ana="start"/>Pues que assí es yo vos
                         digo verdaderamente que si por vos no se pierde que por vuestro linaje no se
                         perderá/ </cl>
-                    <cl xml:id="M5_p1_c180"> que vos sois hijo de rey: y de reina: </cl>
-                    <cl xml:id="M5_p1_c181"> y esto no lo sepa el gigante que vos lo dixe<milestone
+                    <cl xml:id="M5_p3_c180"> que vos sois hijo de rey: y de reina: </cl>
+                    <cl xml:id="M5_p3_c181"> y esto no lo sepa el gigante que vos lo dixe<milestone
                             unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c182"> Quando Galaor esto oyó/ fue muy alegre/ que más ser no
+                    <cl xml:id="M5_p3_c182"> Quando Galaor esto oyó/ fue muy alegre/ que más ser no
                         podía y dixo. </cl>
-                    <cl xml:id="M5_p1_c183">
+                    <cl xml:id="M5_p3_c183">
                         <milestone unit="said" resp="#Galaor" ana="start"/>Él pensamiento que yo
                         hasta aquí tenía por grande en querer ser cavallo: tengo agora por pequeño
                         según lo que me havéis dicho<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c184"> El hombre bueno temiendo que se le no fuesse/ </cl>
-                    <cl xml:id="M5_p1_c185"> embió a dezir al jayán cómo aquel su criado estava en
+                    <cl xml:id="M5_p3_c184"> El hombre bueno temiendo que se le no fuesse/ </cl>
+                    <cl xml:id="M5_p3_c185"> embió a dezir al jayán cómo aquel su criado estava en
                         edad/ y con gana de ser cavallero: </cl>
-                    <cl xml:id="M5_p1_c186"> que mirasse lo que le convenía </cl>
-                    <cl xml:id="M5_p1_c187"> oído esto por él/ cavalgó y fuesse allá/ </cl>
-                    <cl xml:id="M5_p1_c188"> y halló a Galaor muy hermoso y valiente/ más que su
+                    <cl xml:id="M5_p3_c186"> que mirasse lo que le convenía </cl>
+                    <cl xml:id="M5_p3_c187"> oído esto por él/ cavalgó y fuesse allá/ </cl>
+                    <cl xml:id="M5_p3_c188"> y halló a Galaor muy hermoso y valiente/ más que su
                         edad lo requería y díxole. </cl>
-                    <cl xml:id="M5_p1_c189">
-                        <milestone unit="said" resp="#anon" ana="start"/>Hijo yo se que queréis ser
+                    <cl xml:id="M5_p3_c189">
+                        <milestone unit="said" resp="#anon" ana="start"/>Dijo yo le que queréis ser
                         cavallero: </cl>
-                    <cl xml:id="M5_p1_c190"> y quiérovos llevar conimgo y trabajaré como lo seáis
+                    <!--Page 4-->
+                    <cl xml:id="M5_p4_c190"> y quiérovos llevar conimgo y trabajaré como lo seáis
                         mucho avuestra honra<milestone unit="said" ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c191">
+                    <cl xml:id="M5_p4_c191">
                         <milestone unit="said" resp="#Galaor" ana="start"/>Padre <milestone
                             unit="said" ana="intStart"/>dixo él<milestone unit="said" ana="intEnd"
                         />/ en esso será mi voluntad del todo cumplida<milestone unit="said"
                             ana="end"/>. </cl>
-                    <cl xml:id="M5_p1_c192"> Entonces le fizo cavalgar en un cavallo pa lo llevar. </cl>
-                    <cl xml:id="M5_p1_c193"> Pero antes se despidió del hombre bueno hincados los
+                    <cl xml:id="M5_p4_c192"> Entonces le fizo cavalgar en un cavallo pa lo llevar. </cl>
+                    <cl xml:id="M5_p4_c193"> Pero antes se despidió del hombre bueno hincados los
                         inojos ante él: </cl>
-                    <cl xml:id="M5_p1_c194"> rogándole que del oviesse memoría/ </cl>
-                    <cl xml:id="M5_p1_c195"> el hombre bueno llorava: y besávale muchas vezes: </cl>
-                    <cl xml:id="M5_p1_c196"> y dándole su bendición se fue con el gigante. </cl>
-                    <cl xml:id="M5_p1_c197"> Y llegados a su castillo/ hízole armas su muestra/ </cl>
-                    <cl xml:id="M5_p1_c198"> y hazíale cavalgar y bohordar por el campo: </cl>
-                    <cl xml:id="M5_p1_c199"> y dio le dos esgremidores que le desembolviessen y le
+                    <cl xml:id="M5_p4_c194"> rogándole que del oviesse memoría/ </cl>
+                    <cl xml:id="M5_p4_c195"> el hombre bueno llorava: y besávale muchas vezes: </cl>
+                    <cl xml:id="M5_p4_c196"> y dándole su bendición se fue con el gigante. </cl>
+                    <cl xml:id="M5_p4_c197"> Y llegados a su castillo/ hízole armas su muestra/ </cl>
+                    <cl xml:id="M5_p4_c198"> y hazíale cavalgar y bohordar por el campo: </cl>
+                    <cl xml:id="M5_p4_c199"> y dio le dos esgremidores que le desembolviessen y le
                         soltassen con el escudo y el espada: </cl>
-                    <cl xml:id="M5_p1_c200"> y hízole aprender todas las cosas de armas que a
+                    <cl xml:id="M5_p4_c200"> y hízole aprender todas las cosas de armas que a
                         cavallero convenían: </cl>
-                    <cl xml:id="M5_p1_c201"> en esto le detuvo un año que el gigante vio que le
+                    <cl xml:id="M5_p4_c201"> en esto le detuvo un año que el gigante vio que le
                         bastava para que sin empacho podría ser cavallero. </cl>
-                    <cl xml:id="M5_p1_c202"> Aquí dexa el autor de contar desto porque en su lugar
+                    <cl xml:id="M5_p4_c202"> Aquí dexa el autor de contar desto porque en su lugar
                         mención se hará de lo que este Galaor hizo: </cl>
-                    <cl xml:id="M5_p1_c203"> y torna a contar de lo que sucedió al Donzel del Mar
+                    <cl xml:id="M5_p4_c203"> y torna a contar de lo que sucedió al Donzel del Mar
                         después que del rey Perión y de la Donzella de Denamarcha y del castillo del
                         viejo se partió. </cl>
-                    <cl xml:id="M5_p1_c204"> Anduvo dos días sin aventura fallar: </cl>
-                    <cl xml:id="M5_p1_c205"> y al tercero día a la hora de mediodía llegó a vista de
+                    <cl xml:id="M5_p4_c204"> Anduvo dos días sin aventura fallar: </cl>
+                    <cl xml:id="M5_p4_c205"> y al tercero día a la hora de mediodía llegó a vista de
                         un muy hermoso castillo/ </cl>
-                    <cl xml:id="M5_p1_c206"> que era de un cavallero que Galpano avía nombre: </cl>
-                    <cl xml:id="M5_p1_c207"> que era el más valiente y el forçado en armas que en
+                    <cl xml:id="M5_p4_c206"> que era de un cavallero que Galpano avía nombre: </cl>
+                    <cl xml:id="M5_p4_c207"> que era el más valiente y el forçado en armas que en
                         todas aquellas partes se fallava. </cl>
-                    <cl xml:id="M5_p1_c208"> Assí que mucho dudado y temido de todos era. </cl>
-                    <cl xml:id="M5_p1_c209"> E junta su gran valentía con la fortaleza del castillo
+                    <cl xml:id="M5_p4_c208"> Assí que mucho dudado y temido de todos era. </cl>
+                    <cl xml:id="M5_p4_c209"> E junta su gran valentía con la fortaleza del castillo
                         tal costumbre mantenía: </cl>
-                    <cl xml:id="M5_p1_c210"> qual hombre muy sobervio devía mantener/ </cl>
-                    <cl xml:id="M5_p1_c211"> siguiendo más el servicio del enemigo malo/ que de
+                    <cl xml:id="M5_p4_c210"> qual hombre muy sobervio devía mantener/ </cl>
+                    <cl xml:id="M5_p4_c211"> siguiendo más el servicio del enemigo malo/ que de
                         aquel alto señor que tan señalado entre todos los otros le hiziera/ </cl>
-                    <cl xml:id="M5_p1_c212"> que era lo que agora oiréis. </cl>
-                    <cl xml:id="M5_p1_c213"> Las dueñas y donellas que por allí passavan hazíalas
+                    <cl xml:id="M5_p4_c212"> que era lo que agora oiréis. </cl>
+                    <cl xml:id="M5_p4_c213"> Las dueñas y donellas que por allí passavan hazíalas
                         subir al castillo/ </cl>
-                    <cl xml:id="M5_p1_c214"> y haziendo dellas su voluntad por fuerça avíanle de
+                    <cl xml:id="M5_p4_c214"> y haziendo dellas su voluntad por fuerça avíanle de
                         jurar que en tanto que él biuiesse no tomassen otro amigo: </cl>
-                    <cl xml:id="M5_p1_c215"> y si lo no hazían descabeçávalas: </cl>
-                    <cl xml:id="M5_p1_c216"> y a los cavalleros por el semejante/ </cl>
-                    <cl xml:id="M5_p1_c217"> que se avían de combatir con dos hermanos suyos: </cl>
-                    <cl xml:id="M5_p1_c218"> y si era tal que los venciésele combatieseen con él. </cl>
-                    <cl xml:id="M5_p1_c219"> Y él era tanta bondad en armas que le no osavan en el
+                    <cl xml:id="M5_p4_c215"> y si lo no hazían descabeçávalas: </cl>
+                    <cl xml:id="M5_p4_c216"> y a los cavalleros por el semejante/ </cl>
+                    <cl xml:id="M5_p4_c217"> que se avían de combatir con dos hermanos suyos: </cl>
+                    <cl xml:id="M5_p4_c218"> y si era tal que los venciésele combatieseen con él. </cl>
+                    <cl xml:id="M5_p4_c219"> Y él era tanta bondad en armas que le no osavan en el
                         campo atender. </cl>
-                    <cl xml:id="M5_p1_c220"> E hazíales jurar que se llamassen el vencido de
+                    <cl xml:id="M5_p4_c220"> E hazíales jurar que se llamassen el vencido de
                         Galpano: </cl>
-                    <cl xml:id="M5_p1_c221"> o les cortava las cabeças: </cl>
-                    <cl xml:id="M5_p1_c222"> y tomándoles quanto traían se avía de ir de pie. </cl>
-                    <cl xml:id="M5_p1_c223"> Mas ya Dios enojado que tan gran crueza tanto tiempo
+                    <cl xml:id="M5_p4_c221"> o les cortava las cabeças: </cl>
+                    <cl xml:id="M5_p4_c222"> y tomándoles quanto traían se avía de ir de pie. </cl>
+                    <cl xml:id="M5_p4_c223"> Mas ya Dios enojado que tan gran crueza tanto tiempo
                         passasse otorgó a la fortuna que procediendo contra él aquellos en muchos
                         tiempos con gran sobervia con deleites demasiados tanto a su plazer: y a
                         pesar de todos sostenida avía: </cl>
-                    <cl xml:id="M5_p1_c224"> en pequeño espacio de tiempo tornado fuesse al
+                    <cl xml:id="M5_p4_c224"> en pequeño espacio de tiempo tornado fuesse al
                         contrario/ </cl>
-                    <cl xml:id="M5_p1_c225"> pagando aquellos malos su maldad: y a los otros como
+                    <cl xml:id="M5_p4_c225"> pagando aquellos malos su maldad: y a los otros como
                         ellos dando termeroso enxemplo: </cl>
-                    <cl xml:id="M5_p1_c226"> con que se emendassen: </cl>
-                    <cl xml:id="M5_p1_c227"> como agora vos será contado. </cl>
-                    <!--Im done with chp 6, but I need to go back to double check everything is right - c-->ro
+                    <cl xml:id="M5_p4_c226"> con que se emendassen: </cl>
+                    <cl xml:id="M5_p4_c227"> como agora vos será contado. </cl>
+                    <!--Im done with chp 6, but I need to go back to double check everything is right - cro-->
                 </p>
             </div>
         </body>
